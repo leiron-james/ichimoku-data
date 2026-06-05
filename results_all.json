@@ -1,7 +1,7 @@
 {
   "meta": {
     "run_date": "2026-06-05",
-    "run_utc": "2026-06-05T18:25:26Z"
+    "run_utc": "2026-06-05T18:36:32Z"
   },
   "signals": [
     {
@@ -1531,11 +1531,11 @@
       "sl": 1.85,
       "qty": 6830.0,
       "isBtc": false,
-      "price": 1.605,
-      "chg": -0.245,
-      "chgPct": -13.24,
-      "cad_gl": -4476.0,
-      "cad_mv": 15524.0
+      "price": 1.6025,
+      "chg": -0.2475,
+      "chgPct": -13.38,
+      "cad_gl": -4667.0,
+      "cad_mv": 15335.0
     },
     {
       "sym": "COPP",
@@ -1544,11 +1544,11 @@
       "sl": 39.4,
       "qty": 332.0,
       "isBtc": false,
-      "price": 39.4732,
-      "chg": -4.4468,
-      "chgPct": -10.12,
+      "price": 39.5637,
+      "chg": -4.3563,
+      "chgPct": -9.92,
       "cad_gl": -2048.0,
-      "cad_mv": 18351.0
+      "cad_mv": 18353.0
     },
     {
       "sym": "CRWV",
@@ -1557,11 +1557,11 @@
       "sl": 102.0,
       "qty": 85.0,
       "isBtc": false,
-      "price": 96.74,
-      "chg": -11.29,
-      "chgPct": -10.45,
-      "cad_gl": -2427.0,
-      "cad_mv": 11471.0
+      "price": 96.5651,
+      "chg": -11.4649,
+      "chgPct": -10.61,
+      "cad_gl": -2428.0,
+      "cad_mv": 11472.0
     },
     {
       "sym": "GLXY",
@@ -1570,11 +1570,11 @@
       "sl": 27.0,
       "qty": 484.0,
       "isBtc": false,
-      "price": 24.28,
-      "chg": -4.13,
-      "chgPct": -14.54,
-      "cad_gl": -4128.0,
-      "cad_mv": 16717.0
+      "price": 24.31,
+      "chg": -4.1,
+      "chgPct": -14.43,
+      "cad_gl": -4432.0,
+      "cad_mv": 16415.0
     },
     {
       "sym": "HIMS",
@@ -1583,11 +1583,11 @@
       "sl": 24.0,
       "qty": 558.0,
       "isBtc": false,
-      "price": 25.61,
-      "chg": -2.4,
-      "chgPct": -8.57,
+      "price": 25.55,
+      "chg": -2.46,
+      "chgPct": -8.78,
       "cad_gl": -1001.0,
-      "cad_mv": 19880.0
+      "cad_mv": 19882.0
     },
     {
       "sym": "HIVE",
@@ -1596,11 +1596,11 @@
       "sl": 3.89,
       "qty": 3000.0,
       "isBtc": false,
-      "price": 3.665,
-      "chg": -0.705,
-      "chgPct": -16.13,
-      "cad_gl": 4434.0,
-      "cad_mv": 15519.0
+      "price": 3.6599,
+      "chg": -0.7101,
+      "chgPct": -16.25,
+      "cad_gl": 4309.0,
+      "cad_mv": 15396.0
     },
     {
       "sym": "IONQ",
@@ -1609,11 +1609,11 @@
       "sl": 49.13,
       "qty": 86.0,
       "isBtc": false,
-      "price": 56.7009,
-      "chg": -8.9591,
-      "chgPct": -13.64,
-      "cad_gl": -108.0,
-      "cad_mv": 6847.0
+      "price": 56.725,
+      "chg": -8.935,
+      "chgPct": -13.61,
+      "cad_gl": -155.0,
+      "cad_mv": 6801.0
     },
     {
       "sym": "IOT",
@@ -1622,11 +1622,11 @@
       "sl": 35.5,
       "qty": 270.0,
       "isBtc": false,
-      "price": 34.8,
-      "chg": -0.41,
-      "chgPct": -1.16,
-      "cad_gl": -641.0,
-      "cad_mv": 13275.0
+      "price": 35.01,
+      "chg": -0.2,
+      "chgPct": -0.57,
+      "cad_gl": -807.0,
+      "cad_mv": 13111.0
     },
     {
       "sym": "IREN",
@@ -1635,11 +1635,11 @@
       "sl": 51.0,
       "qty": 190.0,
       "isBtc": false,
-      "price": 51.845,
-      "chg": -10.015,
-      "chgPct": -16.19,
-      "cad_gl": 3.0,
-      "cad_mv": 13912.0
+      "price": 51.82,
+      "chg": -10.04,
+      "chgPct": -16.23,
+      "cad_gl": -178.0,
+      "cad_mv": 13733.0
     },
     {
       "sym": "MARA",
@@ -1648,11 +1648,11 @@
       "sl": 11.5,
       "qty": 1594.0,
       "isBtc": false,
-      "price": 11.97,
-      "chg": -1.91,
-      "chgPct": -13.76,
-      "cad_gl": 5757.0,
-      "cad_mv": 26806.0
+      "price": 11.98,
+      "chg": -1.9,
+      "chgPct": -13.69,
+      "cad_gl": 5602.0,
+      "cad_mv": 26653.0
     },
     {
       "sym": "MOH",
@@ -1661,11 +1661,11 @@
       "sl": 176.0,
       "qty": 75.0,
       "isBtc": false,
-      "price": 191.01,
-      "chg": -1.8,
-      "chgPct": -0.93,
+      "price": 191.36,
+      "chg": -1.45,
+      "chgPct": -0.75,
       "cad_gl": -622.0,
-      "cad_mv": 19980.0
+      "cad_mv": 19982.0
     },
     {
       "sym": "ORCL",
@@ -1674,11 +1674,11 @@
       "sl": 184.0,
       "qty": 73.0,
       "isBtc": false,
-      "price": 212.07,
-      "chg": -24.27,
-      "chgPct": -10.27,
-      "cad_gl": 2116.0,
-      "cad_mv": 21590.0
+      "price": 211.4,
+      "chg": -24.94,
+      "chgPct": -10.55,
+      "cad_gl": 2117.0,
+      "cad_mv": 21593.0
     },
     {
       "sym": "PLUG",
@@ -1687,11 +1687,11 @@
       "sl": 3.3,
       "qty": 4539.0,
       "isBtc": false,
-      "price": 3.175,
-      "chg": -0.425,
-      "chgPct": -11.81,
-      "cad_gl": -696.0,
-      "cad_mv": 20190.0
+      "price": 3.165,
+      "chg": -0.435,
+      "chgPct": -12.08,
+      "cad_gl": -823.0,
+      "cad_mv": 20066.0
     },
     {
       "sym": "QBTS",
@@ -1700,11 +1700,11 @@
       "sl": 25.55,
       "qty": 179.0,
       "isBtc": false,
-      "price": 23.565,
-      "chg": -4.075,
-      "chgPct": -14.74,
-      "cad_gl": -1001.0,
-      "cad_mv": 5930.0
+      "price": 23.535,
+      "chg": -4.105,
+      "chgPct": -14.85,
+      "cad_gl": -1046.0,
+      "cad_mv": 5886.0
     },
     {
       "sym": "QUBT",
@@ -1713,11 +1713,11 @@
       "sl": 10.8,
       "qty": 454.0,
       "isBtc": false,
-      "price": 9.9201,
-      "chg": -1.2699,
-      "chgPct": -11.35,
+      "price": 9.8986,
+      "chg": -1.2914,
+      "chgPct": -11.54,
       "cad_gl": -861.0,
-      "cad_mv": 6286.0
+      "cad_mv": 6287.0
     },
     {
       "sym": "RGTI",
@@ -1726,11 +1726,11 @@
       "sl": 21.5,
       "qty": 363.0,
       "isBtc": false,
-      "price": 20.405,
-      "chg": -3.755,
-      "chgPct": -15.54,
-      "cad_gl": -2313.0,
-      "cad_mv": 10442.0
+      "price": 20.305,
+      "chg": -3.855,
+      "chgPct": -15.96,
+      "cad_gl": -2415.0,
+      "cad_mv": 10342.0
     },
     {
       "sym": "RIOT",
@@ -1739,11 +1739,11 @@
       "sl": 22.34,
       "qty": 500.0,
       "isBtc": false,
-      "price": 24.325,
-      "chg": -3.145,
-      "chgPct": -11.45,
-      "cad_gl": 3277.0,
-      "cad_mv": 17221.0
+      "price": 24.345,
+      "chg": -3.125,
+      "chgPct": -11.38,
+      "cad_gl": 3054.0,
+      "cad_mv": 17000.0
     },
     {
       "sym": "SCR",
@@ -1752,9 +1752,9 @@
       "sl": 44.0,
       "qty": 196.0,
       "isBtc": false,
-      "price": 47.63,
-      "chg": -0.74,
-      "chgPct": -1.53,
+      "price": 47.57,
+      "chg": -0.8,
+      "chgPct": -1.65,
       "cad_gl": 253.0,
       "cad_mv": 9259.0
     },
@@ -1765,11 +1765,11 @@
       "sl": 32.0,
       "qty": 423.0,
       "isBtc": false,
-      "price": 41.495,
-      "chg": -5.405,
-      "chgPct": -11.52,
-      "cad_gl": 3779.0,
-      "cad_mv": 24631.0
+      "price": 41.405,
+      "chg": -5.495,
+      "chgPct": -11.72,
+      "cad_gl": 3643.0,
+      "cad_mv": 24498.0
     },
     {
       "sym": "SWKS",
@@ -1778,11 +1778,11 @@
       "sl": 75.0,
       "qty": 223.0,
       "isBtc": false,
-      "price": 74.495,
-      "chg": -5.435,
-      "chgPct": -6.8,
-      "cad_gl": 2249.0,
-      "cad_mv": 23088.0
+      "price": 74.2246,
+      "chg": -5.7054,
+      "chgPct": -7.14,
+      "cad_gl": 2337.0,
+      "cad_mv": 23178.0
     },
     {
       "sym": "TGT",
@@ -1791,11 +1791,11 @@
       "sl": 116.0,
       "qty": 117.0,
       "isBtc": false,
-      "price": 122.9,
-      "chg": -0.95,
-      "chgPct": -0.77,
+      "price": 122.71,
+      "chg": -1.14,
+      "chgPct": -0.92,
       "cad_gl": -237.0,
-      "cad_mv": 20057.0
+      "cad_mv": 20060.0
     },
     {
       "sym": "TONX",
@@ -1804,11 +1804,11 @@
       "sl": 3.2,
       "qty": 1428.0,
       "isBtc": false,
-      "price": 3.14,
-      "chg": -0.6,
-      "chgPct": -16.04,
-      "cad_gl": -1115.0,
-      "cad_mv": 6252.0
+      "price": 3.15,
+      "chg": -0.59,
+      "chgPct": -15.78,
+      "cad_gl": -1095.0,
+      "cad_mv": 6273.0
     },
     {
       "sym": "XFOR",
@@ -1817,11 +1817,11 @@
       "sl": 4.0,
       "qty": 3652.0,
       "isBtc": false,
-      "price": 3.825,
-      "chg": -0.185,
-      "chgPct": -4.61,
+      "price": 3.796,
+      "chg": -0.214,
+      "chgPct": -5.34,
       "cad_gl": -1391.0,
-      "cad_mv": 19504.0
+      "cad_mv": 19506.0
     },
     {
       "sym": "XYZ",
@@ -1830,11 +1830,11 @@
       "sl": 65.0,
       "qty": 217.0,
       "isBtc": false,
-      "price": 68,
-      "chg": -2.89,
-      "chgPct": -4.08,
-      "cad_gl": -221.0,
-      "cad_mv": 20627.0
+      "price": 67.91,
+      "chg": -2.98,
+      "chgPct": -4.2,
+      "cad_gl": -257.0,
+      "cad_mv": 20593.0
     },
     {
       "sym": "ZONE",
@@ -1843,11 +1843,11 @@
       "sl": 0.57,
       "qty": 7692.0,
       "isBtc": false,
-      "price": 0.5972,
-      "chg": -0.08620002,
-      "chgPct": -12.61,
+      "price": 0.5857,
+      "chg": -0.0977,
+      "chgPct": -14.3,
       "cad_gl": -631.0,
-      "cad_mv": 6328.0
+      "cad_mv": 6329.0
     }
   ],
   "watchlist": [
@@ -2936,588 +2936,56 @@
   ],
   "market": {
     "^GSPC": {
-      "price": 7427.91,
-      "chg": -156.4,
-      "chgPct": -2.06215,
-      "dayLow": 7425.73,
+      "price": 7417.99,
+      "chg": -166.32,
+      "chgPct": -2.19295,
+      "dayLow": 7417.04,
       "dayHigh": 7541.81
     },
     "^IXIC": {
-      "price": 25892.441,
-      "chg": -938.516,
-      "chgPct": -3.49788,
-      "dayLow": 25885.064,
+      "price": 25844.234,
+      "chg": -986.723,
+      "chgPct": -3.67755,
+      "dayLow": 25835.53,
       "dayHigh": 26572.248
     },
     "^GSPTSE": {
-      "price": 34510.06,
-      "chg": -707,
-      "chgPct": -2.00755,
-      "dayLow": 34494.74,
+      "price": 34508.4,
+      "chg": -708.66,
+      "chgPct": -2.01226,
+      "dayLow": 34493.75,
       "dayHigh": 35071.82
     },
     "BTCUSD": {
-      "price": 60260.99,
-      "chg": -3054.85206,
-      "chgPct": -4.82478,
-      "dayLow": 60138,
+      "price": 60159,
+      "chg": -3156.84206,
+      "chgPct": -4.98586,
+      "dayLow": 60034.96,
       "dayHigh": 64011
     },
     "USDCAD": {
-      "price": 1.39447,
-      "chg": 0.00365,
-      "chgPct": 0.26244,
+      "price": 1.39434,
+      "chg": 0.00352,
+      "chgPct": 0.25309,
       "dayLow": 1.38662,
-      "dayHigh": 1.39458
+      "dayHigh": 1.39465
     },
     "GCUSD": {
-      "price": 4348.4,
-      "chg": -156.6,
-      "chgPct": -3.47614,
-      "dayLow": 4347.5,
+      "price": 4352,
+      "chg": -153,
+      "chgPct": -3.39623,
+      "dayLow": 4347.1,
       "dayHigh": 4508.7
     },
     "CLUSD": {
-      "price": 90.25,
-      "chg": -2.79,
-      "chgPct": -2.99871,
+      "price": 90.52,
+      "chg": -2.52,
+      "chgPct": -2.70851,
       "dayLow": 89.69,
       "dayHigh": 93.62
     }
   },
   "insider": {
-    "NOW": [
-      {
-        "sym": "NOW",
-        "name": "Briggs Teresa",
-        "role": "director",
-        "type": "sale",
-        "shares": 1595,
-        "price": 108.7,
-        "total": 173376,
-        "pct": 12.7,
-        "date": "2026-05-28"
-      }
-    ],
-    "HIMS": [
-      {
-        "sym": "HIMS",
-        "name": "WELLS DAVID B",
-        "role": "director",
-        "type": "purchase",
-        "shares": 48400,
-        "price": 24.235,
-        "total": 1172974,
-        "pct": 21.6,
-        "date": "2026-05-26"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 7950,
-        "price": 23.6372,
-        "total": 187916,
-        "pct": 2.9,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Boughton Soleil",
-        "role": "Chief Legal Officer",
-        "type": "sale",
-        "shares": 9463,
-        "price": 30.0,
-        "total": 283890,
-        "pct": 3.1,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 19645,
-        "price": 29.9626,
-        "total": 588615,
-        "pct": 7.0,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 18005,
-        "price": 27.8344,
-        "total": 501158,
-        "pct": 6.3,
-        "date": "2026-04-17"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 36922,
-        "price": 25.8964,
-        "total": 956147,
-        "pct": 11.6,
-        "date": "2026-04-16"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 3975,
-        "price": 19.977,
-        "total": 79409,
-        "pct": 1.2,
-        "date": "2026-04-06"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 9217,
-        "price": 23.7677,
-        "total": 219067,
-        "pct": 2.8,
-        "date": "2026-03-20"
-      }
-    ],
-    "SOUN": [
-      {
-        "sym": "SOUN",
-        "name": "SROKA DIANA",
-        "role": "director",
-        "type": "sale",
-        "shares": 1343,
-        "price": 6.7709,
-        "total": 9093,
-        "pct": 0.9,
-        "date": "2026-03-23"
-      },
-      {
-        "sym": "SOUN",
-        "name": "STONEHOCKER TIMOTHY",
-        "role": "Chief Technology Officer",
-        "type": "sale",
-        "shares": 23087,
-        "price": 6.7903,
-        "total": 156768,
-        "pct": 4.2,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "ZAGORSEK MICHAEL",
-        "role": "Chief Operating Officer",
-        "type": "sale",
-        "shares": 52968,
-        "price": 6.7903,
-        "total": 359669,
-        "pct": 3.0,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "SHARAN NITESH",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 44027,
-        "price": 6.7903,
-        "total": 298957,
-        "pct": 2.6,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "MOHAJER KEYVAN",
-        "role": "CEO",
-        "type": "sale",
-        "shares": 124510,
-        "price": 6.7903,
-        "total": 845460,
-        "pct": 5.7,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "HOM JAMES MING",
-        "role": "Chief Product Officer",
-        "type": "sale",
-        "shares": 31019,
-        "price": 6.7903,
-        "total": 210628,
-        "pct": 3.9,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "EMAMI MAJID",
-        "role": "CSO & SVP, Engineering",
-        "type": "sale",
-        "shares": 31019,
-        "price": 6.7903,
-        "total": 210628,
-        "pct": 5.8,
-        "date": "2026-03-20"
-      }
-    ],
-    "GLXY": [
-      {
-        "sym": "GLXY",
-        "name": "DAFFEY MICHAEL D",
-        "role": "director",
-        "type": "exercise+sell",
-        "shares": 250000,
-        "price": 28.6599,
-        "total": 7219141,
-        "pct": 9.2,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "GLXY",
-        "name": "DAFFEY MICHAEL D",
-        "role": "director",
-        "type": "exercise+sell",
-        "shares": 250000,
-        "price": 28.655,
-        "total": 7193268,
-        "pct": 9.7,
-        "date": "2026-05-21"
-      }
-    ],
-    "MORN": [
-      {
-        "sym": "MORN",
-        "name": "Lyons William M",
-        "role": "director",
-        "type": "sale",
-        "shares": 700,
-        "price": 179.0,
-        "total": 125300,
-        "pct": 4.8,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
-        "type": "sale",
-        "shares": 2270,
-        "price": 174.0857,
-        "total": 401144,
-        "pct": 0.0,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
-        "type": "sale",
-        "shares": 7250,
-        "price": 172.3272,
-        "total": 1250840,
-        "pct": 0.1,
-        "date": "2026-05-21"
-      },
-      {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
-        "type": "sale",
-        "shares": 6959,
-        "price": 171.3247,
-        "total": 1193514,
-        "pct": 0.1,
-        "date": "2026-05-20"
-      },
-      {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
-        "type": "sale",
-        "shares": 6728,
-        "price": 176.6647,
-        "total": 1199804,
-        "pct": 0.0,
-        "date": "2026-05-19"
-      },
-      {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
-        "type": "sale",
-        "shares": 7250,
-        "price": 171.3338,
-        "total": 1274832,
-        "pct": 0.0,
-        "date": "2026-05-18"
-      }
-    ],
-    "RGTI": [
-      {
-        "sym": "RGTI",
-        "name": "Clifton Michael S.",
-        "role": "director",
-        "type": "sale",
-        "shares": 54012,
-        "price": 11.5,
-        "total": 621138,
-        "pct": 35.3,
-        "date": "2026-06-03"
-      },
-      {
-        "sym": "RGTI",
-        "name": "Clifton Michael S.",
-        "role": "director",
-        "type": "sale",
-        "shares": 3144,
-        "price": 11.5,
-        "total": 36156,
-        "pct": 2.0,
-        "date": "2026-06-02"
-      },
-      {
-        "sym": "RGTI",
-        "name": "Kulkarni Subodh K",
-        "role": "President and CEO",
-        "type": "sale",
-        "shares": 61000,
-        "price": 24.3781,
-        "total": 1487064,
-        "pct": 35.6,
-        "date": "2026-06-01"
-      },
-      {
-        "sym": "RGTI",
-        "name": "Rivas David",
-        "role": "CHIEF TECHNOLOGY OFFICER",
-        "type": "exercise+sell",
-        "shares": 499328,
-        "price": 25.396,
-        "total": 12680934,
-        "pct": 60.5,
-        "date": "2026-05-29"
-      },
-      {
-        "sym": "RGTI",
-        "name": "Kulkarni Subodh K",
-        "role": "President and CEO",
-        "type": "exercise+sell",
-        "shares": 43190,
-        "price": 26.2292,
-        "total": 1132839,
-        "pct": 20.1,
-        "date": "2026-05-28"
-      },
-      {
-        "sym": "RGTI",
-        "name": "Bertelsen Jeffrey A.",
-        "role": "CHIEF FINANCIAL OFFICER",
-        "type": "sale",
-        "shares": 3682,
-        "price": 22.937,
-        "total": 84489,
-        "pct": 2.1,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "RGTI",
-        "name": "Rivas David",
-        "role": "CHIEF TECHNOLOGY OFFICER",
-        "type": "sale",
-        "shares": 18759,
-        "price": 22.9523,
-        "total": 430643,
-        "pct": 2.6,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "RGTI",
-        "name": "Clifton Michael S.",
-        "role": "director",
-        "type": "sale",
-        "shares": 50000,
-        "price": 11.5,
-        "total": 575000,
-        "pct": 24.2,
-        "date": "2026-05-21"
-      }
-    ],
-    "SG": [
-      {
-        "sym": "SG",
-        "name": "Cochran Jason Miles",
-        "role": "Chief Operating Officer",
-        "type": "sale",
-        "shares": 15038,
-        "price": 7.9903,
-        "total": 120158,
-        "pct": 6.6,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "SG",
-        "name": "McConnell Jamie",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 1401,
-        "price": 8.0,
-        "total": 11208,
-        "pct": 0.6,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "SG",
-        "name": "GOLDMAN SACHS GROUP INC",
-        "role": "10 percent owner",
-        "type": "purchase",
-        "shares": 9413,
-        "price": 5.7,
-        "total": 53360,
-        "pct": 0.0,
-        "date": "2026-04-07"
-      }
-    ],
-    "RDDT": [
-      {
-        "sym": "RDDT",
-        "name": "Huffman Steve Ladd",
-        "role": "CEO & President",
-        "type": "exercise+sell",
-        "shares": 18000,
-        "price": 167.59,
-        "total": 3134316,
-        "pct": 0.2,
-        "date": "2026-05-29"
-      },
-      {
-        "sym": "RDDT",
-        "name": "Wong Jennifer L.",
-        "role": "Chief Operating Officer",
-        "type": "exercise+sell",
-        "shares": 39167,
-        "price": 154.6,
-        "total": 6208843,
-        "pct": 0.1,
-        "date": "2026-05-18"
-      }
-    ],
-    "TE": [
-      {
-        "sym": "TE",
-        "name": "TRINA SOLAR (SCHWEIZ) AG",
-        "role": "10 percent owner",
-        "type": "sale",
-        "shares": 9500000,
-        "price": 8.1347,
-        "total": 77293020,
-        "pct": 23.6,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "TE",
-        "name": "TRINA SOLAR (SCHWEIZ) AG",
-        "role": "10 percent owner",
-        "type": "sale",
-        "shares": 13000000,
-        "price": 8.6229,
-        "total": 113018494,
-        "pct": 16.6,
-        "date": "2026-05-21"
-      }
-    ],
-    "BMNR": [
-      {
-        "sym": "BMNR",
-        "name": "Love Lori",
-        "role": "director",
-        "type": "purchase",
-        "shares": 227,
-        "price": 22.01,
-        "total": 4996,
-        "pct": 0.6,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "BMNR",
-        "name": "Love Lori",
-        "role": "director",
-        "type": "purchase",
-        "shares": 474,
-        "price": 22.0466,
-        "total": 10450,
-        "pct": 1.3,
-        "date": "2026-04-16"
-      }
-    ],
-    "MSFT": [
-      {
-        "sym": "MSFT",
-        "name": "Althoff Judson",
-        "role": "CEO Microsoft Commercial",
-        "type": "sale",
-        "shares": 15500,
-        "price": 460.988,
-        "total": 7145314,
-        "pct": 12.3,
-        "date": "2026-06-01"
-      },
-      {
-        "sym": "MSFT",
-        "name": "Coleman Amy",
-        "role": "EVP, Chief Human Resources Off",
-        "type": "sale",
-        "shares": 1262,
-        "price": 411.342,
-        "total": 519114,
-        "pct": 2.7,
-        "date": "2026-05-14"
-      }
-    ],
-    "AMT": [
-      {
-        "sym": "AMT",
-        "name": "Dowling Ruth T",
-        "role": "EVP, Chief Admin Ofr, GC & Sec",
-        "type": "sale",
-        "shares": 416,
-        "price": 177.54,
-        "total": 73857,
-        "pct": 1.4,
-        "date": "2026-04-29"
-      },
-      {
-        "sym": "AMT",
-        "name": "Dowling Ruth T",
-        "role": "EVP, Chief Admin Ofr, GC & Sec",
-        "type": "sale",
-        "shares": 556,
-        "price": 178.48,
-        "total": 99235,
-        "pct": 1.8,
-        "date": "2026-04-28"
-      }
-    ],
-    "UNH": [
-      {
-        "sym": "UNH",
-        "name": "Conway Patrick Hugh",
-        "role": "Chief Executive Officer, Optum",
-        "type": "sale",
-        "shares": 800,
-        "price": 355.0,
-        "total": 284000,
-        "pct": 4.3,
-        "date": "2026-04-23"
-      }
-    ],
     "KVUE": [
       {
         "sym": "KVUE",
@@ -3529,527 +2997,6 @@
         "total": 679686,
         "pct": 100.0,
         "date": "2026-05-08"
-      }
-    ],
-    "NFLX": [
-      {
-        "sym": "NFLX",
-        "name": "HASTINGS REED",
-        "role": "director",
-        "type": "exercise+sell",
-        "shares": 386700,
-        "price": 85.8459,
-        "total": 33244035,
-        "pct": 85.2,
-        "date": "2026-06-01"
-      },
-      {
-        "sym": "NFLX",
-        "name": "Peters Gregory K",
-        "role": "Co-CEO",
-        "type": "sale",
-        "shares": 27312,
-        "price": 88.6944,
-        "total": 2422421,
-        "pct": 18.4,
-        "date": "2026-05-07"
-      },
-      {
-        "sym": "NFLX",
-        "name": "Neumann Spencer Adam",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 9253,
-        "price": 88.9522,
-        "total": 823075,
-        "pct": 11.1,
-        "date": "2026-05-07"
-      }
-    ],
-    "QBTS": [
-      {
-        "sym": "QBTS",
-        "name": "Markovich John M.",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 2908,
-        "price": 31.0,
-        "total": 90148,
-        "pct": 0.2,
-        "date": "2026-06-02"
-      },
-      {
-        "sym": "QBTS",
-        "name": "Markovich John M.",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 328752,
-        "price": 27.7037,
-        "total": 9107647,
-        "pct": 18.6,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "QBTS",
-        "name": "Nguyen Diane",
-        "role": "EVP, Chief Legal Officer & GC",
-        "type": "sale",
-        "shares": 40000,
-        "price": 25.014,
-        "total": 1000560,
-        "pct": 7.2,
-        "date": "2026-05-21"
-      },
-      {
-        "sym": "QBTS",
-        "name": "AMES SOPHIE C",
-        "role": "Exec. Vice President & CHRO",
-        "type": "sale",
-        "shares": 23025,
-        "price": 18.9765,
-        "total": 436934,
-        "pct": 3.7,
-        "date": "2026-05-20"
-      },
-      {
-        "sym": "QBTS",
-        "name": "AMES SOPHIE C",
-        "role": "Exec. Vice President & CHRO",
-        "type": "sale",
-        "shares": 3070,
-        "price": 21.3513,
-        "total": 65548,
-        "pct": 0.5,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "QBTS",
-        "name": "Ghai Rohit",
-        "role": "director",
-        "type": "sale",
-        "shares": 10000,
-        "price": 17.6168,
-        "total": 176168,
-        "pct": 26.5,
-        "date": "2026-03-16"
-      },
-      {
-        "sym": "QBTS",
-        "name": "Nguyen Diane",
-        "role": "EVP, Chief Legal Officer & GC",
-        "type": "sale",
-        "shares": 2532,
-        "price": 17.6278,
-        "total": 44634,
-        "pct": 0.4,
-        "date": "2026-03-13"
-      },
-      {
-        "sym": "QBTS",
-        "name": "Markovich John M.",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 10706,
-        "price": 17.6278,
-        "total": 188723,
-        "pct": 0.7,
-        "date": "2026-03-13"
-      }
-    ],
-    "BBAI": [
-      {
-        "sym": "BBAI",
-        "name": "Ricker Sean Raymond",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 10000,
-        "price": 4.33,
-        "total": 43300,
-        "pct": 1.6,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "BBAI",
-        "name": "HAYES DOROTHY D",
-        "role": "director",
-        "type": "sale",
-        "shares": 15000,
-        "price": 4.105,
-        "total": 61575,
-        "pct": 6.8,
-        "date": "2026-05-08"
-      },
-      {
-        "sym": "BBAI",
-        "name": "Braden Pamela Joyce",
-        "role": "director",
-        "type": "sale",
-        "shares": 80000,
-        "price": 4.0,
-        "total": 320000,
-        "pct": 13.6,
-        "date": "2026-03-16"
-      }
-    ],
-    "RIOT": [
-      {
-        "sym": "RIOT",
-        "name": "Werner Ryan D.",
-        "role": "SVP, CAO",
-        "type": "sale",
-        "shares": 37616,
-        "price": 26.5,
-        "total": 996824,
-        "pct": 3.8,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "RIOT",
-        "name": "Les Jason",
-        "role": "CEO",
-        "type": "sale",
-        "shares": 175000,
-        "price": 25.19,
-        "total": 4408250,
-        "pct": 11.7,
-        "date": "2026-05-11"
-      }
-    ],
-    "PYPL": [
-      {
-        "sym": "PYPL",
-        "name": "Natali Chris",
-        "role": "SVP, Chief Accounting Officer",
-        "type": "sale",
-        "shares": 552,
-        "price": 42.65,
-        "total": 23543,
-        "pct": 23.8,
-        "date": "2026-06-03"
-      },
-      {
-        "sym": "PYPL",
-        "name": "Kereere Suzan",
-        "role": "President, Global Markets",
-        "type": "sale",
-        "shares": 3379,
-        "price": 42.7876,
-        "total": 144579,
-        "pct": 9.8,
-        "date": "2026-06-03"
-      },
-      {
-        "sym": "PYPL",
-        "name": "Keller Frank",
-        "role": "Pres., Checkout Sol. & PayPal",
-        "type": "sale",
-        "shares": 4612,
-        "price": 42.54,
-        "total": 196194,
-        "pct": 10.0,
-        "date": "2026-06-03"
-      }
-    ],
-    "LLY": [
-      {
-        "sym": "LLY",
-        "name": "LILLY ENDOWMENT INC",
-        "role": "Former 10% Shareholder",
-        "type": "sale",
-        "shares": 15828,
-        "price": 995.225,
-        "total": 15754536,
-        "pct": 0.0,
-        "date": "2026-05-06"
-      }
-    ],
-    "BX": [
-      {
-        "sym": "BX",
-        "name": "Porat Ruth",
-        "role": "director",
-        "type": "purchase",
-        "shares": 437,
-        "price": 123.1919,
-        "total": 53747,
-        "pct": 0.5,
-        "date": "2026-05-11"
-      },
-      {
-        "sym": "BX",
-        "name": "Sawhney Vikrant",
-        "role": "Chief Administrative Officer",
-        "type": "sale",
-        "shares": 30014,
-        "price": 125.55,
-        "total": 3775565,
-        "pct": 1.8,
-        "date": "2026-05-01"
-      }
-    ],
-    "DXCM": [
-      {
-        "sym": "DXCM",
-        "name": "SAYER KEVIN R",
-        "role": "Executive Chair",
-        "type": "sale",
-        "shares": 26759,
-        "price": 72.0,
-        "total": 1926648,
-        "pct": 6.5,
-        "date": "2026-05-21"
-      },
-      {
-        "sym": "DXCM",
-        "name": "Brown Michael Jon",
-        "role": "EVP, Chief Legal Officer",
-        "type": "sale",
-        "shares": 1700,
-        "price": 59.91,
-        "total": 101847,
-        "pct": 1.5,
-        "date": "2026-05-15"
-      },
-      {
-        "sym": "DXCM",
-        "name": "Heller Bridgette P",
-        "role": "director",
-        "type": "sale",
-        "shares": 1012,
-        "price": 60.01,
-        "total": 60730,
-        "pct": 3.9,
-        "date": "2026-05-12"
-      }
-    ],
-    "QUBT": [
-      {
-        "sym": "QUBT",
-        "name": "Roberts Christopher Bruce",
-        "role": "CFO and General Counsel",
-        "type": "sale",
-        "shares": 9360,
-        "price": 7.852,
-        "total": 73495,
-        "pct": 0.8,
-        "date": "2026-03-11"
-      },
-      {
-        "sym": "QUBT",
-        "name": "Roberts Christopher Bruce",
-        "role": "CFO and General Counsel",
-        "type": "exercise+sell",
-        "shares": 68902,
-        "price": 7.8518,
-        "total": 541005,
-        "pct": 5.7,
-        "date": "2026-03-10"
-      }
-    ],
-    "ADP": [
-      {
-        "sym": "ADP",
-        "name": "Michaud Brian L.",
-        "role": "Executive VP",
-        "type": "sale",
-        "shares": 848,
-        "price": 212.13,
-        "total": 179886,
-        "pct": 5.5,
-        "date": "2026-05-08"
-      },
-      {
-        "sym": "ADP",
-        "name": "SWAN ROBERT HOLMES",
-        "role": "director",
-        "type": "purchase",
-        "shares": 3619,
-        "price": 206.05,
-        "total": 745695,
-        "pct": 71.4,
-        "date": "2026-05-07"
-      },
-      {
-        "sym": "ADP",
-        "name": "D'Ambrosio Christopher",
-        "role": "Corp. VP",
-        "type": "sale",
-        "shares": 543,
-        "price": 195.74,
-        "total": 106287,
-        "pct": 6.1,
-        "date": "2026-04-14"
-      },
-      {
-        "sym": "ADP",
-        "name": "D'Ambrosio Christopher",
-        "role": "Corp. VP",
-        "type": "sale",
-        "shares": 543,
-        "price": 208.45,
-        "total": 113188,
-        "pct": 5.7,
-        "date": "2026-03-16"
-      }
-    ],
-    "MOH": [
-      {
-        "sym": "MOH",
-        "name": "HEBERT MAURICE",
-        "role": "Chief Accounting Officer",
-        "type": "sale",
-        "shares": 600,
-        "price": 191.55,
-        "total": 114930,
-        "pct": 4.5,
-        "date": "2026-05-14"
-      },
-      {
-        "sym": "MOH",
-        "name": "Barlow Jeff D.",
-        "role": "Chief Legal Officer",
-        "type": "sale",
-        "shares": 17811,
-        "price": 186.12,
-        "total": 3314983,
-        "pct": 21.0,
-        "date": "2026-05-11"
-      },
-      {
-        "sym": "MOH",
-        "name": "ROMNEY RONNA",
-        "role": "director",
-        "type": "sale",
-        "shares": 506,
-        "price": 146.92,
-        "total": 74342,
-        "pct": 2.9,
-        "date": "2026-03-12"
-      }
-    ],
-    "VST": [
-      {
-        "sym": "VST",
-        "name": "Montemayor Margaret",
-        "role": "SVP, Chief Accounting Officer",
-        "type": "sale",
-        "shares": 4600,
-        "price": 160.0,
-        "total": 736000,
-        "pct": 32.0,
-        "date": "2026-06-02"
-      },
-      {
-        "sym": "VST",
-        "name": "Montemayor Margaret",
-        "role": "SVP, Chief Accounting Officer",
-        "type": "sale",
-        "shares": 5000,
-        "price": 164.96,
-        "total": 824800,
-        "pct": 25.8,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "VST",
-        "name": "Moore Stephanie Zapata",
-        "role": "EVP and General Counsel",
-        "type": "sale",
-        "shares": 10000,
-        "price": 160.31,
-        "total": 1603100,
-        "pct": 8.0,
-        "date": "2026-03-09"
-      }
-    ],
-    "XYZ": [
-      {
-        "sym": "XYZ",
-        "name": "Jennings Owen Britton",
-        "role": "Business Lead",
-        "type": "sale",
-        "shares": 1316,
-        "price": 68.54,
-        "total": 90199,
-        "pct": 0.3,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "XYZ",
-        "name": "Grassadonia Brian",
-        "role": "Ecosystem Lead",
-        "type": "sale",
-        "shares": 8166,
-        "price": 67.76,
-        "total": 555370,
-        "pct": 0.8,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "XYZ",
-        "name": "Jennings Owen Britton",
-        "role": "Business Lead",
-        "type": "sale",
-        "shares": 583,
-        "price": 69.83,
-        "total": 40711,
-        "pct": 0.1,
-        "date": "2026-05-21"
-      },
-      {
-        "sym": "XYZ",
-        "name": "Jennings Owen Britton",
-        "role": "Business Lead",
-        "type": "sale",
-        "shares": 44,
-        "price": 71.0,
-        "total": 3124,
-        "pct": 0.0,
-        "date": "2026-05-19"
-      },
-      {
-        "sym": "XYZ",
-        "name": "Esperanza Chrysty",
-        "role": "Chief Legal Officer",
-        "type": "sale",
-        "shares": 3000,
-        "price": 75.0,
-        "total": 225000,
-        "pct": 1.1,
-        "date": "2026-04-21"
-      },
-      {
-        "sym": "XYZ",
-        "name": "Ahuja Amrita",
-        "role": "CFO & COO",
-        "type": "sale",
-        "shares": 30919,
-        "price": 75.0,
-        "total": 2318925,
-        "pct": 5.8,
-        "date": "2026-04-21"
-      },
-      {
-        "sym": "XYZ",
-        "name": "Jennings Owen Britton",
-        "role": "Business Lead",
-        "type": "sale",
-        "shares": 133,
-        "price": 60.25,
-        "total": 8013,
-        "pct": 0.1,
-        "date": "2026-04-06"
-      },
-      {
-        "sym": "XYZ",
-        "name": "Grassadonia Brian",
-        "role": "Ecosystem Lead",
-        "type": "sale",
-        "shares": 1769,
-        "price": 60.25,
-        "total": 106582,
-        "pct": 0.4,
-        "date": "2026-04-06"
       }
     ],
     "TGT": [
@@ -4087,85 +3034,28 @@
         "date": "2026-03-17"
       }
     ],
-    "IOT": [
+    "QUBT": [
       {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
+        "sym": "QUBT",
+        "name": "Roberts Christopher Bruce",
+        "role": "CFO and General Counsel",
         "type": "sale",
-        "shares": 31081,
-        "price": 30.2921,
-        "total": 970079,
-        "pct": 1.3,
-        "date": "2026-05-28"
+        "shares": 9360,
+        "price": 7.852,
+        "total": 73495,
+        "pct": 0.8,
+        "date": "2026-03-11"
       },
       {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
-        "type": "sale",
-        "shares": 30345,
-        "price": 30.2773,
-        "total": 946675,
-        "pct": 2.4,
-        "date": "2026-05-28"
-      },
-      {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
-        "type": "sale",
-        "shares": 128159,
-        "price": 29.7203,
-        "total": 3848236,
-        "pct": 17.2,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
-        "type": "sale",
-        "shares": 129021,
-        "price": 29.718,
-        "total": 3873708,
-        "pct": 26.4,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
-        "type": "sale",
-        "shares": 104660,
-        "price": 30.3975,
-        "total": 3254935,
-        "pct": 2.1,
-        "date": "2026-05-26"
-      },
-      {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
-        "type": "sale",
-        "shares": 104534,
-        "price": 30.4037,
-        "total": 3250991,
-        "pct": 2.9,
-        "date": "2026-05-26"
-      }
-    ],
-    "CRWV": [
-      {
-        "sym": "CRWV",
-        "name": "Intrator Michael N",
-        "role": "CEO and President",
-        "type": "conversion+sell",
-        "shares": 304507,
-        "price": 119.3567,
-        "total": 37240407,
-        "pct": 1.1,
-        "date": "2026-06-02"
+        "sym": "QUBT",
+        "name": "Roberts Christopher Bruce",
+        "role": "CFO and General Counsel",
+        "type": "exercise+sell",
+        "shares": 68902,
+        "price": 7.8518,
+        "total": 541005,
+        "pct": 5.7,
+        "date": "2026-03-10"
       }
     ],
     "MARA": [
@@ -4258,39 +3148,884 @@
         "date": "2026-03-17"
       }
     ],
-    "IONQ": [
+    "ADP": [
       {
-        "sym": "IONQ",
-        "name": "Cardillo Robert T.",
-        "role": "director, other: Executive Chair, IonQ Federal",
-        "type": "exercise+sell",
-        "shares": 3773,
-        "price": 49.9,
-        "total": 188273,
-        "pct": 2.6,
-        "date": "2026-05-06"
-      },
-      {
-        "sym": "IONQ",
-        "name": "Cardillo Robert T.",
-        "role": "director, other: Executive Chair, IonQ Federal",
-        "type": "exercise+sell",
-        "shares": 2500,
-        "price": 44.9,
-        "total": 112250,
-        "pct": 1.8,
-        "date": "2026-04-16"
-      },
-      {
-        "sym": "IONQ",
-        "name": "Raymond John w",
-        "role": "director, other: Special Advisor",
+        "sym": "ADP",
+        "name": "Michaud Brian L.",
+        "role": "Executive VP",
         "type": "sale",
-        "shares": 2800,
-        "price": 33.34,
-        "total": 93352,
-        "pct": 3.2,
+        "shares": 848,
+        "price": 212.13,
+        "total": 179886,
+        "pct": 5.5,
+        "date": "2026-05-08"
+      },
+      {
+        "sym": "ADP",
+        "name": "SWAN ROBERT HOLMES",
+        "role": "director",
+        "type": "purchase",
+        "shares": 3619,
+        "price": 206.05,
+        "total": 745695,
+        "pct": 71.4,
+        "date": "2026-05-07"
+      },
+      {
+        "sym": "ADP",
+        "name": "D'Ambrosio Christopher",
+        "role": "Corp. VP",
+        "type": "sale",
+        "shares": 543,
+        "price": 195.74,
+        "total": 106287,
+        "pct": 6.1,
+        "date": "2026-04-14"
+      },
+      {
+        "sym": "ADP",
+        "name": "D'Ambrosio Christopher",
+        "role": "Corp. VP",
+        "type": "sale",
+        "shares": 543,
+        "price": 208.45,
+        "total": 113188,
+        "pct": 5.7,
+        "date": "2026-03-16"
+      }
+    ],
+    "BBAI": [
+      {
+        "sym": "BBAI",
+        "name": "Ricker Sean Raymond",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 10000,
+        "price": 4.33,
+        "total": 43300,
+        "pct": 1.6,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "BBAI",
+        "name": "HAYES DOROTHY D",
+        "role": "director",
+        "type": "sale",
+        "shares": 15000,
+        "price": 4.105,
+        "total": 61575,
+        "pct": 6.8,
+        "date": "2026-05-08"
+      },
+      {
+        "sym": "BBAI",
+        "name": "Braden Pamela Joyce",
+        "role": "director",
+        "type": "sale",
+        "shares": 80000,
+        "price": 4.0,
+        "total": 320000,
+        "pct": 13.6,
+        "date": "2026-03-16"
+      }
+    ],
+    "PYPL": [
+      {
+        "sym": "PYPL",
+        "name": "Natali Chris",
+        "role": "SVP, Chief Accounting Officer",
+        "type": "sale",
+        "shares": 552,
+        "price": 42.65,
+        "total": 23543,
+        "pct": 23.8,
+        "date": "2026-06-03"
+      },
+      {
+        "sym": "PYPL",
+        "name": "Kereere Suzan",
+        "role": "President, Global Markets",
+        "type": "sale",
+        "shares": 3379,
+        "price": 42.7876,
+        "total": 144579,
+        "pct": 9.8,
+        "date": "2026-06-03"
+      },
+      {
+        "sym": "PYPL",
+        "name": "Keller Frank",
+        "role": "Pres., Checkout Sol. & PayPal",
+        "type": "sale",
+        "shares": 4612,
+        "price": 42.54,
+        "total": 196194,
+        "pct": 10.0,
+        "date": "2026-06-03"
+      }
+    ],
+    "QBTS": [
+      {
+        "sym": "QBTS",
+        "name": "Markovich John M.",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 2908,
+        "price": 31.0,
+        "total": 90148,
+        "pct": 0.2,
+        "date": "2026-06-02"
+      },
+      {
+        "sym": "QBTS",
+        "name": "Markovich John M.",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 328752,
+        "price": 27.7037,
+        "total": 9107647,
+        "pct": 18.6,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "QBTS",
+        "name": "Nguyen Diane",
+        "role": "EVP, Chief Legal Officer & GC",
+        "type": "sale",
+        "shares": 40000,
+        "price": 25.014,
+        "total": 1000560,
+        "pct": 7.2,
+        "date": "2026-05-21"
+      },
+      {
+        "sym": "QBTS",
+        "name": "AMES SOPHIE C",
+        "role": "Exec. Vice President & CHRO",
+        "type": "sale",
+        "shares": 23025,
+        "price": 18.9765,
+        "total": 436934,
+        "pct": 3.7,
+        "date": "2026-05-20"
+      },
+      {
+        "sym": "QBTS",
+        "name": "AMES SOPHIE C",
+        "role": "Exec. Vice President & CHRO",
+        "type": "sale",
+        "shares": 3070,
+        "price": 21.3513,
+        "total": 65548,
+        "pct": 0.5,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "QBTS",
+        "name": "Ghai Rohit",
+        "role": "director",
+        "type": "sale",
+        "shares": 10000,
+        "price": 17.6168,
+        "total": 176168,
+        "pct": 26.5,
+        "date": "2026-03-16"
+      },
+      {
+        "sym": "QBTS",
+        "name": "Nguyen Diane",
+        "role": "EVP, Chief Legal Officer & GC",
+        "type": "sale",
+        "shares": 2532,
+        "price": 17.6278,
+        "total": 44634,
+        "pct": 0.4,
+        "date": "2026-03-13"
+      },
+      {
+        "sym": "QBTS",
+        "name": "Markovich John M.",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 10706,
+        "price": 17.6278,
+        "total": 188723,
+        "pct": 0.7,
+        "date": "2026-03-13"
+      }
+    ],
+    "RIOT": [
+      {
+        "sym": "RIOT",
+        "name": "Werner Ryan D.",
+        "role": "SVP, CAO",
+        "type": "sale",
+        "shares": 37616,
+        "price": 26.5,
+        "total": 996824,
+        "pct": 3.8,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "RIOT",
+        "name": "Les Jason",
+        "role": "CEO",
+        "type": "sale",
+        "shares": 175000,
+        "price": 25.19,
+        "total": 4408250,
+        "pct": 11.7,
+        "date": "2026-05-11"
+      }
+    ],
+    "CRWV": [
+      {
+        "sym": "CRWV",
+        "name": "Intrator Michael N",
+        "role": "CEO and President",
+        "type": "conversion+sell",
+        "shares": 304507,
+        "price": 119.3567,
+        "total": 37240407,
+        "pct": 1.1,
+        "date": "2026-06-02"
+      }
+    ],
+    "SG": [
+      {
+        "sym": "SG",
+        "name": "Cochran Jason Miles",
+        "role": "Chief Operating Officer",
+        "type": "sale",
+        "shares": 15038,
+        "price": 7.9903,
+        "total": 120158,
+        "pct": 6.6,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "SG",
+        "name": "McConnell Jamie",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 1401,
+        "price": 8.0,
+        "total": 11208,
+        "pct": 0.6,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "SG",
+        "name": "GOLDMAN SACHS GROUP INC",
+        "role": "10 percent owner",
+        "type": "purchase",
+        "shares": 9413,
+        "price": 5.7,
+        "total": 53360,
+        "pct": 0.0,
+        "date": "2026-04-07"
+      }
+    ],
+    "TE": [
+      {
+        "sym": "TE",
+        "name": "TRINA SOLAR (SCHWEIZ) AG",
+        "role": "10 percent owner",
+        "type": "sale",
+        "shares": 9500000,
+        "price": 8.1347,
+        "total": 77293020,
+        "pct": 23.6,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "TE",
+        "name": "TRINA SOLAR (SCHWEIZ) AG",
+        "role": "10 percent owner",
+        "type": "sale",
+        "shares": 13000000,
+        "price": 8.6229,
+        "total": 113018494,
+        "pct": 16.6,
+        "date": "2026-05-21"
+      }
+    ],
+    "XYZ": [
+      {
+        "sym": "XYZ",
+        "name": "Jennings Owen Britton",
+        "role": "Business Lead",
+        "type": "sale",
+        "shares": 1316,
+        "price": 68.54,
+        "total": 90199,
+        "pct": 0.3,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "XYZ",
+        "name": "Grassadonia Brian",
+        "role": "Ecosystem Lead",
+        "type": "sale",
+        "shares": 8166,
+        "price": 67.76,
+        "total": 555370,
+        "pct": 0.8,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "XYZ",
+        "name": "Jennings Owen Britton",
+        "role": "Business Lead",
+        "type": "sale",
+        "shares": 583,
+        "price": 69.83,
+        "total": 40711,
+        "pct": 0.1,
+        "date": "2026-05-21"
+      },
+      {
+        "sym": "XYZ",
+        "name": "Jennings Owen Britton",
+        "role": "Business Lead",
+        "type": "sale",
+        "shares": 44,
+        "price": 71.0,
+        "total": 3124,
+        "pct": 0.0,
+        "date": "2026-05-19"
+      },
+      {
+        "sym": "XYZ",
+        "name": "Esperanza Chrysty",
+        "role": "Chief Legal Officer",
+        "type": "sale",
+        "shares": 3000,
+        "price": 75.0,
+        "total": 225000,
+        "pct": 1.1,
+        "date": "2026-04-21"
+      },
+      {
+        "sym": "XYZ",
+        "name": "Ahuja Amrita",
+        "role": "CFO & COO",
+        "type": "sale",
+        "shares": 30919,
+        "price": 75.0,
+        "total": 2318925,
+        "pct": 5.8,
+        "date": "2026-04-21"
+      },
+      {
+        "sym": "XYZ",
+        "name": "Jennings Owen Britton",
+        "role": "Business Lead",
+        "type": "sale",
+        "shares": 133,
+        "price": 60.25,
+        "total": 8013,
+        "pct": 0.1,
+        "date": "2026-04-06"
+      },
+      {
+        "sym": "XYZ",
+        "name": "Grassadonia Brian",
+        "role": "Ecosystem Lead",
+        "type": "sale",
+        "shares": 1769,
+        "price": 60.25,
+        "total": 106582,
+        "pct": 0.4,
+        "date": "2026-04-06"
+      }
+    ],
+    "RGTI": [
+      {
+        "sym": "RGTI",
+        "name": "Clifton Michael S.",
+        "role": "director",
+        "type": "sale",
+        "shares": 54012,
+        "price": 11.5,
+        "total": 621138,
+        "pct": 35.3,
+        "date": "2026-06-03"
+      },
+      {
+        "sym": "RGTI",
+        "name": "Clifton Michael S.",
+        "role": "director",
+        "type": "sale",
+        "shares": 3144,
+        "price": 11.5,
+        "total": 36156,
+        "pct": 2.0,
+        "date": "2026-06-02"
+      },
+      {
+        "sym": "RGTI",
+        "name": "Kulkarni Subodh K",
+        "role": "President and CEO",
+        "type": "sale",
+        "shares": 61000,
+        "price": 24.3781,
+        "total": 1487064,
+        "pct": 35.6,
+        "date": "2026-06-01"
+      },
+      {
+        "sym": "RGTI",
+        "name": "Rivas David",
+        "role": "CHIEF TECHNOLOGY OFFICER",
+        "type": "exercise+sell",
+        "shares": 499328,
+        "price": 25.396,
+        "total": 12680934,
+        "pct": 60.5,
+        "date": "2026-05-29"
+      },
+      {
+        "sym": "RGTI",
+        "name": "Kulkarni Subodh K",
+        "role": "President and CEO",
+        "type": "exercise+sell",
+        "shares": 43190,
+        "price": 26.2292,
+        "total": 1132839,
+        "pct": 20.1,
+        "date": "2026-05-28"
+      },
+      {
+        "sym": "RGTI",
+        "name": "Bertelsen Jeffrey A.",
+        "role": "CHIEF FINANCIAL OFFICER",
+        "type": "sale",
+        "shares": 3682,
+        "price": 22.937,
+        "total": 84489,
+        "pct": 2.1,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "RGTI",
+        "name": "Rivas David",
+        "role": "CHIEF TECHNOLOGY OFFICER",
+        "type": "sale",
+        "shares": 18759,
+        "price": 22.9523,
+        "total": 430643,
+        "pct": 2.6,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "RGTI",
+        "name": "Clifton Michael S.",
+        "role": "director",
+        "type": "sale",
+        "shares": 50000,
+        "price": 11.5,
+        "total": 575000,
+        "pct": 24.2,
+        "date": "2026-05-21"
+      }
+    ],
+    "XFOR": [
+      {
+        "sym": "XFOR",
+        "name": "KIRSKE DAVID",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 16961,
+        "price": 4.2934,
+        "total": 72820,
+        "pct": 8.8,
+        "date": "2026-05-12"
+      }
+    ],
+    "MOH": [
+      {
+        "sym": "MOH",
+        "name": "HEBERT MAURICE",
+        "role": "Chief Accounting Officer",
+        "type": "sale",
+        "shares": 600,
+        "price": 191.55,
+        "total": 114930,
+        "pct": 4.5,
+        "date": "2026-05-14"
+      },
+      {
+        "sym": "MOH",
+        "name": "Barlow Jeff D.",
+        "role": "Chief Legal Officer",
+        "type": "sale",
+        "shares": 17811,
+        "price": 186.12,
+        "total": 3314983,
+        "pct": 21.0,
+        "date": "2026-05-11"
+      },
+      {
+        "sym": "MOH",
+        "name": "ROMNEY RONNA",
+        "role": "director",
+        "type": "sale",
+        "shares": 506,
+        "price": 146.92,
+        "total": 74342,
+        "pct": 2.9,
         "date": "2026-03-12"
+      }
+    ],
+    "DXCM": [
+      {
+        "sym": "DXCM",
+        "name": "SAYER KEVIN R",
+        "role": "Executive Chair",
+        "type": "sale",
+        "shares": 26759,
+        "price": 72.0,
+        "total": 1926648,
+        "pct": 6.5,
+        "date": "2026-05-21"
+      },
+      {
+        "sym": "DXCM",
+        "name": "Brown Michael Jon",
+        "role": "EVP, Chief Legal Officer",
+        "type": "sale",
+        "shares": 1700,
+        "price": 59.91,
+        "total": 101847,
+        "pct": 1.5,
+        "date": "2026-05-15"
+      },
+      {
+        "sym": "DXCM",
+        "name": "Heller Bridgette P",
+        "role": "director",
+        "type": "sale",
+        "shares": 1012,
+        "price": 60.01,
+        "total": 60730,
+        "pct": 3.9,
+        "date": "2026-05-12"
+      }
+    ],
+    "BX": [
+      {
+        "sym": "BX",
+        "name": "Porat Ruth",
+        "role": "director",
+        "type": "purchase",
+        "shares": 437,
+        "price": 123.1919,
+        "total": 53747,
+        "pct": 0.5,
+        "date": "2026-05-11"
+      },
+      {
+        "sym": "BX",
+        "name": "Sawhney Vikrant",
+        "role": "Chief Administrative Officer",
+        "type": "sale",
+        "shares": 30014,
+        "price": 125.55,
+        "total": 3775565,
+        "pct": 1.8,
+        "date": "2026-05-01"
+      }
+    ],
+    "MSFT": [
+      {
+        "sym": "MSFT",
+        "name": "Althoff Judson",
+        "role": "CEO Microsoft Commercial",
+        "type": "sale",
+        "shares": 15500,
+        "price": 460.988,
+        "total": 7145314,
+        "pct": 12.3,
+        "date": "2026-06-01"
+      },
+      {
+        "sym": "MSFT",
+        "name": "Coleman Amy",
+        "role": "EVP, Chief Human Resources Off",
+        "type": "sale",
+        "shares": 1262,
+        "price": 411.342,
+        "total": 519114,
+        "pct": 2.7,
+        "date": "2026-05-14"
+      }
+    ],
+    "SOUN": [
+      {
+        "sym": "SOUN",
+        "name": "SROKA DIANA",
+        "role": "director",
+        "type": "sale",
+        "shares": 1343,
+        "price": 6.7709,
+        "total": 9093,
+        "pct": 0.9,
+        "date": "2026-03-23"
+      },
+      {
+        "sym": "SOUN",
+        "name": "STONEHOCKER TIMOTHY",
+        "role": "Chief Technology Officer",
+        "type": "sale",
+        "shares": 23087,
+        "price": 6.7903,
+        "total": 156768,
+        "pct": 4.2,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "ZAGORSEK MICHAEL",
+        "role": "Chief Operating Officer",
+        "type": "sale",
+        "shares": 52968,
+        "price": 6.7903,
+        "total": 359669,
+        "pct": 3.0,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "SHARAN NITESH",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 44027,
+        "price": 6.7903,
+        "total": 298957,
+        "pct": 2.6,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "MOHAJER KEYVAN",
+        "role": "CEO",
+        "type": "sale",
+        "shares": 124510,
+        "price": 6.7903,
+        "total": 845460,
+        "pct": 5.7,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "HOM JAMES MING",
+        "role": "Chief Product Officer",
+        "type": "sale",
+        "shares": 31019,
+        "price": 6.7903,
+        "total": 210628,
+        "pct": 3.9,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "EMAMI MAJID",
+        "role": "CSO & SVP, Engineering",
+        "type": "sale",
+        "shares": 31019,
+        "price": 6.7903,
+        "total": 210628,
+        "pct": 5.8,
+        "date": "2026-03-20"
+      }
+    ],
+    "RDDT": [
+      {
+        "sym": "RDDT",
+        "name": "Huffman Steve Ladd",
+        "role": "CEO & President",
+        "type": "exercise+sell",
+        "shares": 18000,
+        "price": 167.59,
+        "total": 3134316,
+        "pct": 0.2,
+        "date": "2026-05-29"
+      },
+      {
+        "sym": "RDDT",
+        "name": "Wong Jennifer L.",
+        "role": "Chief Operating Officer",
+        "type": "exercise+sell",
+        "shares": 39167,
+        "price": 154.6,
+        "total": 6208843,
+        "pct": 0.1,
+        "date": "2026-05-18"
+      }
+    ],
+    "NFLX": [
+      {
+        "sym": "NFLX",
+        "name": "HASTINGS REED",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 386700,
+        "price": 85.8459,
+        "total": 33244035,
+        "pct": 85.2,
+        "date": "2026-06-01"
+      },
+      {
+        "sym": "NFLX",
+        "name": "Peters Gregory K",
+        "role": "Co-CEO",
+        "type": "sale",
+        "shares": 27312,
+        "price": 88.6944,
+        "total": 2422421,
+        "pct": 18.4,
+        "date": "2026-05-07"
+      },
+      {
+        "sym": "NFLX",
+        "name": "Neumann Spencer Adam",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 9253,
+        "price": 88.9522,
+        "total": 823075,
+        "pct": 11.1,
+        "date": "2026-05-07"
+      }
+    ],
+    "IOT": [
+      {
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 31081,
+        "price": 30.2921,
+        "total": 970079,
+        "pct": 1.3,
+        "date": "2026-05-28"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 30345,
+        "price": 30.2773,
+        "total": 946675,
+        "pct": 2.4,
+        "date": "2026-05-28"
+      },
+      {
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 128159,
+        "price": 29.7203,
+        "total": 3848236,
+        "pct": 17.2,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 129021,
+        "price": 29.718,
+        "total": 3873708,
+        "pct": 26.4,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 104660,
+        "price": 30.3975,
+        "total": 3254935,
+        "pct": 2.1,
+        "date": "2026-05-26"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 104534,
+        "price": 30.4037,
+        "total": 3250991,
+        "pct": 2.9,
+        "date": "2026-05-26"
+      }
+    ],
+    "AMT": [
+      {
+        "sym": "AMT",
+        "name": "Dowling Ruth T",
+        "role": "EVP, Chief Admin Ofr, GC & Sec",
+        "type": "sale",
+        "shares": 416,
+        "price": 177.54,
+        "total": 73857,
+        "pct": 1.4,
+        "date": "2026-04-29"
+      },
+      {
+        "sym": "AMT",
+        "name": "Dowling Ruth T",
+        "role": "EVP, Chief Admin Ofr, GC & Sec",
+        "type": "sale",
+        "shares": 556,
+        "price": 178.48,
+        "total": 99235,
+        "pct": 1.8,
+        "date": "2026-04-28"
+      }
+    ],
+    "BMNR": [
+      {
+        "sym": "BMNR",
+        "name": "Love Lori",
+        "role": "director",
+        "type": "purchase",
+        "shares": 227,
+        "price": 22.01,
+        "total": 4996,
+        "pct": 0.6,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "BMNR",
+        "name": "Love Lori",
+        "role": "director",
+        "type": "purchase",
+        "shares": 474,
+        "price": 22.0466,
+        "total": 10450,
+        "pct": 1.3,
+        "date": "2026-04-16"
+      }
+    ],
+    "NOW": [
+      {
+        "sym": "NOW",
+        "name": "Briggs Teresa",
+        "role": "director",
+        "type": "sale",
+        "shares": 1595,
+        "price": 108.7,
+        "total": 173376,
+        "pct": 12.7,
+        "date": "2026-05-28"
       }
     ],
     "TONX": [
@@ -4339,17 +4074,282 @@
         "date": "2026-05-14"
       }
     ],
-    "XFOR": [
+    "MORN": [
       {
-        "sym": "XFOR",
-        "name": "KIRSKE DAVID",
+        "sym": "MORN",
+        "name": "Lyons William M",
+        "role": "director",
+        "type": "sale",
+        "shares": 700,
+        "price": 179.0,
+        "total": 125300,
+        "pct": 4.8,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 2270,
+        "price": 174.0857,
+        "total": 401144,
+        "pct": 0.0,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 7250,
+        "price": 172.3272,
+        "total": 1250840,
+        "pct": 0.1,
+        "date": "2026-05-21"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 6959,
+        "price": 171.3247,
+        "total": 1193514,
+        "pct": 0.1,
+        "date": "2026-05-20"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 6728,
+        "price": 176.6647,
+        "total": 1199804,
+        "pct": 0.0,
+        "date": "2026-05-19"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 7250,
+        "price": 171.3338,
+        "total": 1274832,
+        "pct": 0.0,
+        "date": "2026-05-18"
+      }
+    ],
+    "LLY": [
+      {
+        "sym": "LLY",
+        "name": "LILLY ENDOWMENT INC",
+        "role": "Former 10% Shareholder",
+        "type": "sale",
+        "shares": 15828,
+        "price": 995.225,
+        "total": 15754536,
+        "pct": 0.0,
+        "date": "2026-05-06"
+      }
+    ],
+    "HIMS": [
+      {
+        "sym": "HIMS",
+        "name": "WELLS DAVID B",
+        "role": "director",
+        "type": "purchase",
+        "shares": 48400,
+        "price": 24.235,
+        "total": 1172974,
+        "pct": 21.6,
+        "date": "2026-05-26"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 7950,
+        "price": 23.6372,
+        "total": 187916,
+        "pct": 2.9,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Boughton Soleil",
+        "role": "Chief Legal Officer",
+        "type": "sale",
+        "shares": 9463,
+        "price": 30.0,
+        "total": 283890,
+        "pct": 3.1,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 19645,
+        "price": 29.9626,
+        "total": 588615,
+        "pct": 7.0,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 18005,
+        "price": 27.8344,
+        "total": 501158,
+        "pct": 6.3,
+        "date": "2026-04-17"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
         "role": "Chief Financial Officer",
         "type": "sale",
-        "shares": 16961,
-        "price": 4.2934,
-        "total": 72820,
-        "pct": 8.8,
-        "date": "2026-05-12"
+        "shares": 36922,
+        "price": 25.8964,
+        "total": 956147,
+        "pct": 11.6,
+        "date": "2026-04-16"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 3975,
+        "price": 19.977,
+        "total": 79409,
+        "pct": 1.2,
+        "date": "2026-04-06"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 9217,
+        "price": 23.7677,
+        "total": 219067,
+        "pct": 2.8,
+        "date": "2026-03-20"
+      }
+    ],
+    "UNH": [
+      {
+        "sym": "UNH",
+        "name": "Conway Patrick Hugh",
+        "role": "Chief Executive Officer, Optum",
+        "type": "sale",
+        "shares": 800,
+        "price": 355.0,
+        "total": 284000,
+        "pct": 4.3,
+        "date": "2026-04-23"
+      }
+    ],
+    "IONQ": [
+      {
+        "sym": "IONQ",
+        "name": "Cardillo Robert T.",
+        "role": "director, other: Executive Chair, IonQ Federal",
+        "type": "exercise+sell",
+        "shares": 3773,
+        "price": 49.9,
+        "total": 188273,
+        "pct": 2.6,
+        "date": "2026-05-06"
+      },
+      {
+        "sym": "IONQ",
+        "name": "Cardillo Robert T.",
+        "role": "director, other: Executive Chair, IonQ Federal",
+        "type": "exercise+sell",
+        "shares": 2500,
+        "price": 44.9,
+        "total": 112250,
+        "pct": 1.8,
+        "date": "2026-04-16"
+      },
+      {
+        "sym": "IONQ",
+        "name": "Raymond John w",
+        "role": "director, other: Special Advisor",
+        "type": "sale",
+        "shares": 2800,
+        "price": 33.34,
+        "total": 93352,
+        "pct": 3.2,
+        "date": "2026-03-12"
+      }
+    ],
+    "VST": [
+      {
+        "sym": "VST",
+        "name": "Montemayor Margaret",
+        "role": "SVP, Chief Accounting Officer",
+        "type": "sale",
+        "shares": 4600,
+        "price": 160.0,
+        "total": 736000,
+        "pct": 32.0,
+        "date": "2026-06-02"
+      },
+      {
+        "sym": "VST",
+        "name": "Montemayor Margaret",
+        "role": "SVP, Chief Accounting Officer",
+        "type": "sale",
+        "shares": 5000,
+        "price": 164.96,
+        "total": 824800,
+        "pct": 25.8,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "VST",
+        "name": "Moore Stephanie Zapata",
+        "role": "EVP and General Counsel",
+        "type": "sale",
+        "shares": 10000,
+        "price": 160.31,
+        "total": 1603100,
+        "pct": 8.0,
+        "date": "2026-03-09"
+      }
+    ],
+    "GLXY": [
+      {
+        "sym": "GLXY",
+        "name": "DAFFEY MICHAEL D",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 250000,
+        "price": 28.6599,
+        "total": 7219141,
+        "pct": 9.2,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "GLXY",
+        "name": "DAFFEY MICHAEL D",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 250000,
+        "price": 28.655,
+        "total": 7193268,
+        "pct": 9.7,
+        "date": "2026-05-21"
       }
     ]
   },
@@ -4357,97 +4357,97 @@
     {
       "sector": "Consumer Staples",
       "ticker": "XLP",
-      "price": 84.17,
-      "change": 2.125,
-      "changePct": 2.59,
+      "price": 84.18,
+      "change": 2.14,
+      "changePct": 2.61,
       "date": "2026-06-05"
     },
     {
       "sector": "Utilities",
       "ticker": "XLU",
-      "price": 44.58,
-      "change": 0.635,
-      "changePct": 1.45,
-      "date": "2026-06-05"
-    },
-    {
-      "sector": "Healthcare",
-      "ticker": "XLV",
-      "price": 154.13,
-      "change": 2.05,
-      "changePct": 1.35,
+      "price": 44.54,
+      "change": 0.6,
+      "changePct": 1.37,
       "date": "2026-06-05"
     },
     {
       "sector": "Real Estate",
       "ticker": "XLRE",
       "price": 44.99,
-      "change": 0.59,
-      "changePct": 1.33,
+      "change": 0.595,
+      "changePct": 1.34,
+      "date": "2026-06-05"
+    },
+    {
+      "sector": "Healthcare",
+      "ticker": "XLV",
+      "price": 154.04,
+      "change": 1.96,
+      "changePct": 1.29,
       "date": "2026-06-05"
     },
     {
       "sector": "Financial Services",
       "ticker": "XLF",
-      "price": 52.38,
-      "change": 0.1938,
-      "changePct": 0.37,
+      "price": 52.37,
+      "change": 0.185,
+      "changePct": 0.35,
       "date": "2026-06-05"
     },
     {
       "sector": "Industrials",
       "ticker": "XLI",
-      "price": 174.56,
-      "change": -1.6,
-      "changePct": -0.91,
+      "price": 174.24,
+      "change": -1.92,
+      "changePct": -1.09,
       "date": "2026-06-05"
     },
     {
       "sector": "Energy",
       "ticker": "XLE",
-      "price": 58.13,
-      "change": -0.62,
-      "changePct": -1.06,
+      "price": 58.08,
+      "change": -0.675,
+      "changePct": -1.15,
       "date": "2026-06-05"
     },
     {
       "sector": "Communication Services",
       "ticker": "XLC",
-      "price": 111.42,
-      "change": -1.69,
-      "changePct": -1.49,
+      "price": 111.46,
+      "change": -1.65,
+      "changePct": -1.46,
       "date": "2026-06-05"
     },
     {
       "sector": "Materials",
       "ticker": "XLB",
-      "price": 50.79,
-      "change": -0.83,
-      "changePct": -1.61,
+      "price": 50.74,
+      "change": -0.88,
+      "changePct": -1.7,
       "date": "2026-06-05"
     },
     {
       "sector": "Consumer Discretionary",
       "ticker": "XLY",
-      "price": 115.29,
-      "change": -1.97,
-      "changePct": -1.68,
+      "price": 115.25,
+      "change": -2.01,
+      "changePct": -1.71,
       "date": "2026-06-05"
     },
     {
       "sector": "Technology",
       "ticker": "XLK",
-      "price": 182.04,
-      "change": -11.13,
-      "changePct": -5.76,
+      "price": 181.6,
+      "change": -11.5699,
+      "changePct": -5.99,
       "date": "2026-06-05"
     },
     {
       "sector": "Metals & Mining",
       "ticker": "XME",
-      "price": 118.96,
-      "change": -9.69,
-      "changePct": -7.53,
+      "price": 118.81,
+      "change": -9.84,
+      "changePct": -7.65,
       "date": "2026-06-05"
     }
   ],
@@ -4517,28 +4517,52 @@
     }
   ],
   "macro_banner": "\u26a0 NFP Jun 5 (85K) \u00b7 Unemp Jun 5 (4.3%) \u00b7 CPI MoM Jun 10 (+0.5%) \u00b7 Core CPI Jun 10 (+0.3%) \u00b7 PPI MoM Jun 11 (+0.8%)",
-  "transcripts": {},
-  "commentary": {
-    "overnight": "<cite index=\"3-11,3-15\">NFP shocked markets Friday morning, printing 172K vs. 85K expected and doubling consensus, pushing the unemployment rate steady at 4.3%.</cite> <cite index=\"3-17,3-18\">Stocks reacted poorly in a 'good news is bad news' scenario as the 10-year yield jumped to 4.54%, fueling concerns the Fed might raise rates.</cite> <cite index=\"11-2,11-6,11-18\">Bitcoin is trading near $62,875 on June 5, down 14.3% over the past week, hovering just above $62,000 support after a record 13-day spot ETF outflow streak totaling $4.4 billion.</cite>",
-    "positions": "Your crypto-mining and Bitcoin-proxy positions took a bloodbath: IREN -16.2%, GLXY -14.5%, BTBT -13.2%, MARA -13.8%, and HIVE -16.1%, all driven by BTC's collapse toward the $60K production-cost floor. <cite index=\"11-9,11-32,11-33\">Bitcoin is down due to record ETF outflows and institutional rotation into AI stocks and megacap IPOs like SpaceX, removing structural support.</cite> Quantum names IONQ -13.6%, QBTS -14.7%, and RGTI -15.5% also cratered despite solid fundamentals. COPP at $39.47 is now just -0.2% above your stop-loss\u2014watch closely. IREN and RIOT remain on Strong Bull Ichimoku signals but are testing critical near-term support.",
-    "earnings": "<cite index=\"3-8,3-34\">Oracle reports June 10 with EPS est 1.96, amid news that Oracle's AI spending bill keeps growing with capex potentially hitting $100 billion as Stargate expands.</cite> IOT beat by +30.6% on June 4 but stock barely reacted. HIVE missed badly at -$0.28 vs. -$0.21 est on June 2. <cite index=\"30-4,30-5\">IonQ reported Q1 2026 revenue of $64.7M (up 7x YoY), raised full-year guidance to $260-270M, and reported a $470M backlog with expanding government contracts.</cite>",
-    "macro": "<cite index=\"25-1,25-2\">Markets now see nearly 60% probability of the Fed raising rates by 25 bps at least once by end of 2026 after the hot NFP print, while the USD Index is up 0.5% in June.</cite> <cite index=\"3-8\">CPI prints June 10 (est 0.5% MoM, 4.2% YoY) with Core CPI at 0.3% MoM and 2.9% YoY, followed by PPI on June 11.</cite> Hawkish Fed rhetoric is intensifying as inflation remains sticky.",
-    "watch_at_open": [
-      "BTC/USD at $62,000 support\u2014break below opens door to $60K and potentially $55K",
-      "COPP at $39.47, just -0.2% above stop-loss at $39.55\u2014any further weakness triggers exit",
-      "IREN and MARA holding Strong Bull 6/6 Ichimoku but testing support after -16% days",
-      "10-year Treasury yield at 4.54%\u2014continuation above 4.60% would pressure all risk assets further",
-      "IONQ at $56.70 after -13.6% drop despite strong Q1 results and raised guidance\u2014potential bounce play"
-    ],
-    "risks": [
-      "Bitcoin ETF outflows continuing for 14th day could push BTC below $60K production cost, triggering miner capitulation and forcing stops on BTBT, IREN, MARA",
-      "Fed rate hike odds now at 60% by year-end after hot NFP\u2014higher-for-longer rates will keep pressure on growth, crypto, and quantum names through CPI on June 10"
-    ],
-    "sources": [
-      "Schwab Market Update: NFP 172K vs 85K est, unemployment 4.3%, 10-year yield 4.54%",
-      "Blockchain Reporter: Bitcoin at $62,875, down 14.3% weekly, 13-day ETF outflow streak $4.4B",
-      "FXStreet: Fed rate hike odds climb to 60% by year-end after strong jobs report"
-    ],
-    "generated_at": "2026-06-05T18:25:26Z"
-  }
+  "transcripts": {
+    "IOT": {
+      "date": "2026-06-04",
+      "quarter": 1,
+      "year": 2026,
+      "beat_miss": "beat",
+      "vs_est": "+2.7% vs est",
+      "guidance": "lowered",
+      "guidance_note": "Reduced full-year revenue guidance to $1.547-$1.555B (24% YoY growth) from prior expectations due to elongated sales cycles following tariff uncertainty in April, though some delayed deals closed in May",
+      "tone": "cautious",
+      "bullets": [
+        "Q1 ARR reached $1.54 billion, growing 31% YoY constant currency, with revenue of $367 million up 31% YoY",
+        "Customers with $100K+ ARR grew 35% YoY to 2,638, adding 154 net new (vs 105 prior year), with ARR per customer at $338K and 58% ARR mix",
+        "Non-GAAP operating margin reached record 14% vs 2% prior year Q1, with adjusted free cash flow margin of 12% vs 7% prior year",
+        "Dollar-based net retention rate achieved 115% target, with 95% of $100K+ customers using 2+ products and 66% using 3+ products",
+        "International contributed 18% of net new ACV (tied for highest ever), with Europe accelerating sequentially and achieving highest quarterly mix",
+        "Record pipeline generation in Q1 despite macro headwinds, with construction driving highest net new ACV mix for 7th consecutive quarter"
+      ],
+      "risks": [
+        "Tariff-related macro uncertainty causing elongated sales cycles as customers prioritize spending on tariff-impacted goods like vehicles and equipment over digitization investments",
+        "Sales cycle timing risk persists with ongoing macro uncertainty despite some delayed Q1 deals closing in May",
+        "Customer hesitation to commit to multi-year digitization contracts while managing supply chain disruptions and higher equipment costs from tariffs"
+      ]
+    },
+    "HIVE": {
+      "date": "2026-06-02",
+      "quarter": 4,
+      "year": 2025,
+      "beat_miss": "unknown",
+      "vs_est": null,
+      "guidance": "raised",
+      "guidance_note": "Hash rate guidance increased from 15 exahash mid-2025 to 25 exahash by fall 2025, targeting $400M+ annualized revenue at $100K Bitcoin and $20M HPC ARR growing to $100M ARR in 2026.",
+      "tone": "bullish",
+      "bullets": [
+        "Generated $115.3M total revenue for fiscal year ended March 31, 2025, with $105M from Bitcoin mining and $10M from HPC AI; achieved $56.2M adjusted EBITDA and 22% ROIC, leading the sector",
+        "Scaled hash rate from 4.7 exahash to 11.5 exahash, currently mining 5.5 Bitcoin daily ($600K/day revenue); fully funded to reach 25 exahash by fall 2025 representing 3% of global network",
+        "HPC business hit $20M annualized run rate in May 2025, targeting $100M ARR in 2026; announced acquisition of 7.2MW Toronto data center to add 5.5MW liquid-cooled compute capacity, 3.5x current HPC footprint",
+        "Holds 610 Bitcoin ($65M) on balance sheet plus pledge to buy back 1,300 Bitcoin at $87K; maintains $23.4M cash and strong 3.7 current ratio with lowest G&A per Bitcoin mined in sector",
+        "At 25 exahash and $100K Bitcoin, projects $1.3M daily revenue ($400M+ annualized) with $250M gross mining margin and $42K cost per Bitcoin; at $150K Bitcoin projects $700M annualized revenue"
+      ],
+      "risks": [
+        "Net loss of $0.02 per share for fiscal 2025 versus $0.29 profit prior year due to April 2024 Bitcoin halving reducing mining rewards by 50% and high network difficulty",
+        "Gross operating margin declined to $25.1M (22%) from $37.5M (33%) year-over-year driven by halving impact and rising Bitcoin network difficulty pressures",
+        "Trading at significant discount to peers at ~$10 per exahash enterprise value versus peer average of $30-50 per exahash, indicating potential re-rating risk and market perception challenges"
+      ]
+    }
+  },
+  "commentary": null
 }
