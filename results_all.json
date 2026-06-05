@@ -1,7 +1,7 @@
 {
   "meta": {
     "run_date": "2026-06-05",
-    "run_utc": "2026-06-05T06:15:43Z"
+    "run_utc": "2026-06-05T06:36:14Z"
   },
   "signals": [
     {
@@ -2899,263 +2899,140 @@
       "dayHigh": 35291.13
     },
     "BTCUSD": {
-      "price": 62089.98,
-      "chg": -2261.66514,
-      "chgPct": -3.51454,
-      "dayLow": 61977.94,
+      "price": 61822,
+      "chg": -2529.64514,
+      "chgPct": -3.93097,
+      "dayLow": 61100,
       "dayHigh": 64353
     },
     "USDCAD": {
-      "price": 1.39079,
-      "chg": -3e-05,
-      "chgPct": -0.002157,
+      "price": 1.39024,
+      "chg": -0.00058,
+      "chgPct": -0.04170202,
       "dayLow": 1.38978,
       "dayHigh": 1.39121
     },
     "GCUSD": {
-      "price": 4465.1,
-      "chg": -39.9,
-      "chgPct": -0.88568,
-      "dayLow": 4461.2,
+      "price": 4471.2,
+      "chg": -33.8,
+      "chgPct": -0.75028,
+      "dayLow": 4455.5,
       "dayHigh": 4508.7
     },
     "CLUSD": {
-      "price": 92.8,
-      "chg": -0.24,
-      "chgPct": -0.25795,
+      "price": 92.72,
+      "chg": -0.32,
+      "chgPct": -0.34394,
       "dayLow": 92.52,
       "dayHigh": 93.52
     }
   },
   "insider": {
-    "SOUN": [
+    "GLXY": [
       {
-        "sym": "SOUN",
-        "name": "SROKA DIANA",
-        "role": "director",
-        "type": "sale",
-        "shares": 1343,
-        "price": 6.7709,
-        "total": 9093,
-        "pct": 0.9,
-        "date": "2026-03-23"
-      },
-      {
-        "sym": "SOUN",
-        "name": "STONEHOCKER TIMOTHY",
-        "role": "Chief Technology Officer",
-        "type": "sale",
-        "shares": 23087,
-        "price": 6.7903,
-        "total": 156768,
-        "pct": 4.2,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "ZAGORSEK MICHAEL",
-        "role": "Chief Operating Officer",
-        "type": "sale",
-        "shares": 52968,
-        "price": 6.7903,
-        "total": 359669,
-        "pct": 3.0,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "SHARAN NITESH",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 44027,
-        "price": 6.7903,
-        "total": 298957,
-        "pct": 2.6,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "MOHAJER KEYVAN",
-        "role": "CEO",
-        "type": "sale",
-        "shares": 124510,
-        "price": 6.7903,
-        "total": 845460,
-        "pct": 5.7,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "HOM JAMES MING",
-        "role": "Chief Product Officer",
-        "type": "sale",
-        "shares": 31019,
-        "price": 6.7903,
-        "total": 210628,
-        "pct": 3.9,
-        "date": "2026-03-20"
-      },
-      {
-        "sym": "SOUN",
-        "name": "EMAMI MAJID",
-        "role": "CSO & SVP, Engineering",
-        "type": "sale",
-        "shares": 31019,
-        "price": 6.7903,
-        "total": 210628,
-        "pct": 5.8,
-        "date": "2026-03-20"
-      }
-    ],
-    "TGT": [
-      {
-        "sym": "TGT",
-        "name": "SYLVESTER CARA A",
-        "role": "Executive Officer",
-        "type": "sale",
-        "shares": 10000,
-        "price": 125.8905,
-        "total": 1258905,
-        "pct": 17.9,
-        "date": "2026-05-29"
-      },
-      {
-        "sym": "TGT",
-        "name": "Cornell Brian C",
-        "role": "Executive Officer",
-        "type": "sale",
-        "shares": 50000,
-        "price": 129.8383,
-        "total": 6492623,
-        "pct": 20.1,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "TGT",
-        "name": "LIEGEL MATTHEW A",
-        "role": "Chief Accounting Officer",
-        "type": "sale",
-        "shares": 2053,
-        "price": 117.1911,
-        "total": 240593,
-        "pct": 14.5,
-        "date": "2026-03-17"
-      }
-    ],
-    "VST": [
-      {
-        "sym": "VST",
-        "name": "Montemayor Margaret",
-        "role": "SVP, Chief Accounting Officer",
-        "type": "sale",
-        "shares": 4600,
-        "price": 160.0,
-        "total": 736000,
-        "pct": 32.0,
-        "date": "2026-06-02"
-      },
-      {
-        "sym": "VST",
-        "name": "Montemayor Margaret",
-        "role": "SVP, Chief Accounting Officer",
-        "type": "sale",
-        "shares": 5000,
-        "price": 164.96,
-        "total": 824800,
-        "pct": 25.8,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "VST",
-        "name": "Moore Stephanie Zapata",
-        "role": "EVP and General Counsel",
-        "type": "sale",
-        "shares": 10000,
-        "price": 160.31,
-        "total": 1603100,
-        "pct": 8.0,
-        "date": "2026-03-09"
-      }
-    ],
-    "NFLX": [
-      {
-        "sym": "NFLX",
-        "name": "HASTINGS REED",
+        "sym": "GLXY",
+        "name": "DAFFEY MICHAEL D",
         "role": "director",
         "type": "exercise+sell",
-        "shares": 386700,
-        "price": 85.8459,
-        "total": 33244035,
-        "pct": 85.2,
-        "date": "2026-06-01"
+        "shares": 250000,
+        "price": 28.6599,
+        "total": 7219141,
+        "pct": 9.2,
+        "date": "2026-05-22"
       },
       {
-        "sym": "NFLX",
-        "name": "Peters Gregory K",
-        "role": "Co-CEO",
-        "type": "sale",
-        "shares": 27312,
-        "price": 88.6944,
-        "total": 2422421,
-        "pct": 18.4,
-        "date": "2026-05-07"
-      },
-      {
-        "sym": "NFLX",
-        "name": "Neumann Spencer Adam",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 9253,
-        "price": 88.9522,
-        "total": 823075,
-        "pct": 11.1,
-        "date": "2026-05-07"
+        "sym": "GLXY",
+        "name": "DAFFEY MICHAEL D",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 250000,
+        "price": 28.655,
+        "total": 7193268,
+        "pct": 9.7,
+        "date": "2026-05-21"
       }
     ],
-    "ADP": [
+    "AMT": [
       {
-        "sym": "ADP",
-        "name": "Michaud Brian L.",
-        "role": "Executive VP",
+        "sym": "AMT",
+        "name": "Dowling Ruth T",
+        "role": "EVP, Chief Admin Ofr, GC & Sec",
         "type": "sale",
-        "shares": 848,
-        "price": 212.13,
-        "total": 179886,
-        "pct": 5.5,
+        "shares": 416,
+        "price": 177.54,
+        "total": 73857,
+        "pct": 1.4,
+        "date": "2026-04-29"
+      },
+      {
+        "sym": "AMT",
+        "name": "Dowling Ruth T",
+        "role": "EVP, Chief Admin Ofr, GC & Sec",
+        "type": "sale",
+        "shares": 556,
+        "price": 178.48,
+        "total": 99235,
+        "pct": 1.8,
+        "date": "2026-04-28"
+      }
+    ],
+    "BBAI": [
+      {
+        "sym": "BBAI",
+        "name": "Ricker Sean Raymond",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 10000,
+        "price": 4.33,
+        "total": 43300,
+        "pct": 1.6,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "BBAI",
+        "name": "HAYES DOROTHY D",
+        "role": "director",
+        "type": "sale",
+        "shares": 15000,
+        "price": 4.105,
+        "total": 61575,
+        "pct": 6.8,
         "date": "2026-05-08"
       },
       {
-        "sym": "ADP",
-        "name": "SWAN ROBERT HOLMES",
+        "sym": "BBAI",
+        "name": "Braden Pamela Joyce",
+        "role": "director",
+        "type": "sale",
+        "shares": 80000,
+        "price": 4.0,
+        "total": 320000,
+        "pct": 13.6,
+        "date": "2026-03-16"
+      }
+    ],
+    "BX": [
+      {
+        "sym": "BX",
+        "name": "Porat Ruth",
         "role": "director",
         "type": "purchase",
-        "shares": 3619,
-        "price": 206.05,
-        "total": 745695,
-        "pct": 71.4,
-        "date": "2026-05-07"
+        "shares": 437,
+        "price": 123.1919,
+        "total": 53747,
+        "pct": 0.5,
+        "date": "2026-05-11"
       },
       {
-        "sym": "ADP",
-        "name": "D'Ambrosio Christopher",
-        "role": "Corp. VP",
+        "sym": "BX",
+        "name": "Sawhney Vikrant",
+        "role": "Chief Administrative Officer",
         "type": "sale",
-        "shares": 543,
-        "price": 195.74,
-        "total": 106287,
-        "pct": 6.1,
-        "date": "2026-04-14"
-      },
-      {
-        "sym": "ADP",
-        "name": "D'Ambrosio Christopher",
-        "role": "Corp. VP",
-        "type": "sale",
-        "shares": 543,
-        "price": 208.45,
-        "total": 113188,
-        "pct": 5.7,
-        "date": "2026-03-16"
+        "shares": 30014,
+        "price": 125.55,
+        "total": 3775565,
+        "pct": 1.8,
+        "date": "2026-05-01"
       }
     ],
     "TONX": [
@@ -3204,356 +3081,6 @@
         "date": "2026-05-14"
       }
     ],
-    "IONQ": [
-      {
-        "sym": "IONQ",
-        "name": "Cardillo Robert T.",
-        "role": "director, other: Executive Chair, IonQ Federal",
-        "type": "exercise+sell",
-        "shares": 3773,
-        "price": 49.9,
-        "total": 188273,
-        "pct": 2.6,
-        "date": "2026-05-06"
-      },
-      {
-        "sym": "IONQ",
-        "name": "Cardillo Robert T.",
-        "role": "director, other: Executive Chair, IonQ Federal",
-        "type": "exercise+sell",
-        "shares": 2500,
-        "price": 44.9,
-        "total": 112250,
-        "pct": 1.8,
-        "date": "2026-04-16"
-      },
-      {
-        "sym": "IONQ",
-        "name": "Raymond John w",
-        "role": "director, other: Special Advisor",
-        "type": "sale",
-        "shares": 2800,
-        "price": 33.34,
-        "total": 93352,
-        "pct": 3.2,
-        "date": "2026-03-12"
-      }
-    ],
-    "UNH": [
-      {
-        "sym": "UNH",
-        "name": "Conway Patrick Hugh",
-        "role": "Chief Executive Officer, Optum",
-        "type": "sale",
-        "shares": 800,
-        "price": 355.0,
-        "total": 284000,
-        "pct": 4.3,
-        "date": "2026-04-23"
-      }
-    ],
-    "NOW": [
-      {
-        "sym": "NOW",
-        "name": "Briggs Teresa",
-        "role": "director",
-        "type": "sale",
-        "shares": 1595,
-        "price": 108.7,
-        "total": 173376,
-        "pct": 12.7,
-        "date": "2026-05-28"
-      }
-    ],
-    "RDDT": [
-      {
-        "sym": "RDDT",
-        "name": "Huffman Steve Ladd",
-        "role": "CEO & President",
-        "type": "exercise+sell",
-        "shares": 18000,
-        "price": 167.59,
-        "total": 3134316,
-        "pct": 0.2,
-        "date": "2026-05-29"
-      },
-      {
-        "sym": "RDDT",
-        "name": "Wong Jennifer L.",
-        "role": "Chief Operating Officer",
-        "type": "exercise+sell",
-        "shares": 39167,
-        "price": 154.6,
-        "total": 6208843,
-        "pct": 0.1,
-        "date": "2026-05-18"
-      }
-    ],
-    "IOT": [
-      {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
-        "type": "sale",
-        "shares": 31081,
-        "price": 30.2921,
-        "total": 970079,
-        "pct": 1.3,
-        "date": "2026-05-28"
-      },
-      {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
-        "type": "sale",
-        "shares": 30345,
-        "price": 30.2773,
-        "total": 946675,
-        "pct": 2.4,
-        "date": "2026-05-28"
-      },
-      {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
-        "type": "sale",
-        "shares": 128159,
-        "price": 29.7203,
-        "total": 3848236,
-        "pct": 17.2,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
-        "type": "sale",
-        "shares": 129021,
-        "price": 29.718,
-        "total": 3873708,
-        "pct": 26.4,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
-        "type": "sale",
-        "shares": 104660,
-        "price": 30.3975,
-        "total": 3254935,
-        "pct": 2.1,
-        "date": "2026-05-26"
-      },
-      {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
-        "type": "sale",
-        "shares": 104534,
-        "price": 30.4037,
-        "total": 3250991,
-        "pct": 2.9,
-        "date": "2026-05-26"
-      }
-    ],
-    "SG": [
-      {
-        "sym": "SG",
-        "name": "Cochran Jason Miles",
-        "role": "Chief Operating Officer",
-        "type": "sale",
-        "shares": 15038,
-        "price": 7.9903,
-        "total": 120158,
-        "pct": 6.6,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "SG",
-        "name": "McConnell Jamie",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 1401,
-        "price": 8.0,
-        "total": 11208,
-        "pct": 0.6,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "SG",
-        "name": "GOLDMAN SACHS GROUP INC",
-        "role": "10 percent owner",
-        "type": "purchase",
-        "shares": 9413,
-        "price": 5.7,
-        "total": 53360,
-        "pct": 0.0,
-        "date": "2026-04-07"
-      }
-    ],
-    "MARA": [
-      {
-        "sym": "MARA",
-        "name": "Thiel Frederick G",
-        "role": "Chief Executive Officer",
-        "type": "sale",
-        "shares": 27505,
-        "price": 12.0,
-        "total": 330060,
-        "pct": 0.6,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "MARA",
-        "name": "Khan Salman Hassan",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 16000,
-        "price": 12.0,
-        "total": 192000,
-        "pct": 3.6,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "MARA",
-        "name": "Nowaid Zabi",
-        "role": "General Counsel",
-        "type": "sale",
-        "shares": 8250,
-        "price": 12.0,
-        "total": 99000,
-        "pct": 0.8,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "MARA",
-        "name": "Thiel Frederick G",
-        "role": "Chief Executive Officer",
-        "type": "sale",
-        "shares": 27505,
-        "price": 11.68,
-        "total": 321258,
-        "pct": 0.6,
-        "date": "2026-04-17"
-      },
-      {
-        "sym": "MARA",
-        "name": "Nowaid Zabi",
-        "role": "General Counsel",
-        "type": "sale",
-        "shares": 42090,
-        "price": 12.0,
-        "total": 505080,
-        "pct": 4.0,
-        "date": "2026-04-17"
-      },
-      {
-        "sym": "MARA",
-        "name": "Khan Salman Hassan",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 16000,
-        "price": 11.68,
-        "total": 186880,
-        "pct": 3.5,
-        "date": "2026-04-17"
-      },
-      {
-        "sym": "MARA",
-        "name": "Thiel Frederick G",
-        "role": "Chief Executive Officer",
-        "type": "sale",
-        "shares": 27505,
-        "price": 9.18,
-        "total": 252496,
-        "pct": 0.6,
-        "date": "2026-03-17"
-      },
-      {
-        "sym": "MARA",
-        "name": "Khan Salman Hassan",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 16000,
-        "price": 9.18,
-        "total": 146880,
-        "pct": 4.5,
-        "date": "2026-03-17"
-      }
-    ],
-    "DXCM": [
-      {
-        "sym": "DXCM",
-        "name": "SAYER KEVIN R",
-        "role": "Executive Chair",
-        "type": "sale",
-        "shares": 26759,
-        "price": 72.0,
-        "total": 1926648,
-        "pct": 6.5,
-        "date": "2026-05-21"
-      },
-      {
-        "sym": "DXCM",
-        "name": "Brown Michael Jon",
-        "role": "EVP, Chief Legal Officer",
-        "type": "sale",
-        "shares": 1700,
-        "price": 59.91,
-        "total": 101847,
-        "pct": 1.5,
-        "date": "2026-05-15"
-      },
-      {
-        "sym": "DXCM",
-        "name": "Heller Bridgette P",
-        "role": "director",
-        "type": "sale",
-        "shares": 1012,
-        "price": 60.01,
-        "total": 60730,
-        "pct": 3.9,
-        "date": "2026-05-12"
-      }
-    ],
-    "XFOR": [
-      {
-        "sym": "XFOR",
-        "name": "KIRSKE DAVID",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 16961,
-        "price": 4.2934,
-        "total": 72820,
-        "pct": 8.8,
-        "date": "2026-05-12"
-      }
-    ],
-    "GLXY": [
-      {
-        "sym": "GLXY",
-        "name": "DAFFEY MICHAEL D",
-        "role": "director",
-        "type": "exercise+sell",
-        "shares": 250000,
-        "price": 28.6599,
-        "total": 7219141,
-        "pct": 9.2,
-        "date": "2026-05-22"
-      },
-      {
-        "sym": "GLXY",
-        "name": "DAFFEY MICHAEL D",
-        "role": "director",
-        "type": "exercise+sell",
-        "shares": 250000,
-        "price": 28.655,
-        "total": 7193268,
-        "pct": 9.7,
-        "date": "2026-05-21"
-      }
-    ],
     "RIOT": [
       {
         "sym": "RIOT",
@@ -3600,6 +3127,100 @@
         "total": 113018494,
         "pct": 16.6,
         "date": "2026-05-21"
+      }
+    ],
+    "QUBT": [
+      {
+        "sym": "QUBT",
+        "name": "Roberts Christopher Bruce",
+        "role": "CFO and General Counsel",
+        "type": "sale",
+        "shares": 9360,
+        "price": 7.852,
+        "total": 73495,
+        "pct": 0.8,
+        "date": "2026-03-11"
+      },
+      {
+        "sym": "QUBT",
+        "name": "Roberts Christopher Bruce",
+        "role": "CFO and General Counsel",
+        "type": "exercise+sell",
+        "shares": 68902,
+        "price": 7.8518,
+        "total": 541005,
+        "pct": 5.7,
+        "date": "2026-03-10"
+      }
+    ],
+    "NFLX": [
+      {
+        "sym": "NFLX",
+        "name": "HASTINGS REED",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 386700,
+        "price": 85.8459,
+        "total": 33244035,
+        "pct": 85.2,
+        "date": "2026-06-01"
+      },
+      {
+        "sym": "NFLX",
+        "name": "Peters Gregory K",
+        "role": "Co-CEO",
+        "type": "sale",
+        "shares": 27312,
+        "price": 88.6944,
+        "total": 2422421,
+        "pct": 18.4,
+        "date": "2026-05-07"
+      },
+      {
+        "sym": "NFLX",
+        "name": "Neumann Spencer Adam",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 9253,
+        "price": 88.9522,
+        "total": 823075,
+        "pct": 11.1,
+        "date": "2026-05-07"
+      }
+    ],
+    "SG": [
+      {
+        "sym": "SG",
+        "name": "Cochran Jason Miles",
+        "role": "Chief Operating Officer",
+        "type": "sale",
+        "shares": 15038,
+        "price": 7.9903,
+        "total": 120158,
+        "pct": 6.6,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "SG",
+        "name": "McConnell Jamie",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 1401,
+        "price": 8.0,
+        "total": 11208,
+        "pct": 0.6,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "SG",
+        "name": "GOLDMAN SACHS GROUP INC",
+        "role": "10 percent owner",
+        "type": "purchase",
+        "shares": 9413,
+        "price": 5.7,
+        "total": 53360,
+        "pct": 0.0,
+        "date": "2026-04-07"
       }
     ],
     "QBTS": [
@@ -3692,6 +3313,30 @@
         "date": "2026-03-13"
       }
     ],
+    "RDDT": [
+      {
+        "sym": "RDDT",
+        "name": "Huffman Steve Ladd",
+        "role": "CEO & President",
+        "type": "exercise+sell",
+        "shares": 18000,
+        "price": 167.59,
+        "total": 3134316,
+        "pct": 0.2,
+        "date": "2026-05-29"
+      },
+      {
+        "sym": "RDDT",
+        "name": "Wong Jennifer L.",
+        "role": "Chief Operating Officer",
+        "type": "exercise+sell",
+        "shares": 39167,
+        "price": 154.6,
+        "total": 6208843,
+        "pct": 0.1,
+        "date": "2026-05-18"
+      }
+    ],
     "MORN": [
       {
         "sym": "MORN",
@@ -3760,218 +3405,190 @@
         "date": "2026-05-18"
       }
     ],
-    "MSFT": [
+    "TGT": [
       {
-        "sym": "MSFT",
-        "name": "Althoff Judson",
-        "role": "CEO Microsoft Commercial",
-        "type": "sale",
-        "shares": 15500,
-        "price": 460.988,
-        "total": 7145314,
-        "pct": 12.3,
-        "date": "2026-06-01"
-      },
-      {
-        "sym": "MSFT",
-        "name": "Coleman Amy",
-        "role": "EVP, Chief Human Resources Off",
-        "type": "sale",
-        "shares": 1262,
-        "price": 411.342,
-        "total": 519114,
-        "pct": 2.7,
-        "date": "2026-05-14"
-      }
-    ],
-    "BBAI": [
-      {
-        "sym": "BBAI",
-        "name": "Ricker Sean Raymond",
-        "role": "Chief Financial Officer",
+        "sym": "TGT",
+        "name": "SYLVESTER CARA A",
+        "role": "Executive Officer",
         "type": "sale",
         "shares": 10000,
-        "price": 4.33,
-        "total": 43300,
-        "pct": 1.6,
-        "date": "2026-05-22"
+        "price": 125.8905,
+        "total": 1258905,
+        "pct": 17.9,
+        "date": "2026-05-29"
       },
       {
-        "sym": "BBAI",
-        "name": "HAYES DOROTHY D",
-        "role": "director",
+        "sym": "TGT",
+        "name": "Cornell Brian C",
+        "role": "Executive Officer",
         "type": "sale",
-        "shares": 15000,
-        "price": 4.105,
-        "total": 61575,
-        "pct": 6.8,
-        "date": "2026-05-08"
+        "shares": 50000,
+        "price": 129.8383,
+        "total": 6492623,
+        "pct": 20.1,
+        "date": "2026-05-27"
       },
       {
-        "sym": "BBAI",
-        "name": "Braden Pamela Joyce",
-        "role": "director",
-        "type": "sale",
-        "shares": 80000,
-        "price": 4.0,
-        "total": 320000,
-        "pct": 13.6,
-        "date": "2026-03-16"
-      }
-    ],
-    "MOH": [
-      {
-        "sym": "MOH",
-        "name": "HEBERT MAURICE",
+        "sym": "TGT",
+        "name": "LIEGEL MATTHEW A",
         "role": "Chief Accounting Officer",
         "type": "sale",
-        "shares": 600,
-        "price": 191.55,
-        "total": 114930,
-        "pct": 4.5,
-        "date": "2026-05-14"
-      },
-      {
-        "sym": "MOH",
-        "name": "Barlow Jeff D.",
-        "role": "Chief Legal Officer",
-        "type": "sale",
-        "shares": 17811,
-        "price": 186.12,
-        "total": 3314983,
-        "pct": 21.0,
-        "date": "2026-05-11"
-      },
-      {
-        "sym": "MOH",
-        "name": "ROMNEY RONNA",
-        "role": "director",
-        "type": "sale",
-        "shares": 506,
-        "price": 146.92,
-        "total": 74342,
-        "pct": 2.9,
-        "date": "2026-03-12"
+        "shares": 2053,
+        "price": 117.1911,
+        "total": 240593,
+        "pct": 14.5,
+        "date": "2026-03-17"
       }
     ],
-    "BMNR": [
+    "VST": [
       {
-        "sym": "BMNR",
-        "name": "Love Lori",
-        "role": "director",
-        "type": "purchase",
-        "shares": 227,
-        "price": 22.01,
-        "total": 4996,
-        "pct": 0.6,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "BMNR",
-        "name": "Love Lori",
-        "role": "director",
-        "type": "purchase",
-        "shares": 474,
-        "price": 22.0466,
-        "total": 10450,
-        "pct": 1.3,
-        "date": "2026-04-16"
-      }
-    ],
-    "QUBT": [
-      {
-        "sym": "QUBT",
-        "name": "Roberts Christopher Bruce",
-        "role": "CFO and General Counsel",
-        "type": "sale",
-        "shares": 9360,
-        "price": 7.852,
-        "total": 73495,
-        "pct": 0.8,
-        "date": "2026-03-11"
-      },
-      {
-        "sym": "QUBT",
-        "name": "Roberts Christopher Bruce",
-        "role": "CFO and General Counsel",
-        "type": "exercise+sell",
-        "shares": 68902,
-        "price": 7.8518,
-        "total": 541005,
-        "pct": 5.7,
-        "date": "2026-03-10"
-      }
-    ],
-    "AMT": [
-      {
-        "sym": "AMT",
-        "name": "Dowling Ruth T",
-        "role": "EVP, Chief Admin Ofr, GC & Sec",
-        "type": "sale",
-        "shares": 416,
-        "price": 177.54,
-        "total": 73857,
-        "pct": 1.4,
-        "date": "2026-04-29"
-      },
-      {
-        "sym": "AMT",
-        "name": "Dowling Ruth T",
-        "role": "EVP, Chief Admin Ofr, GC & Sec",
-        "type": "sale",
-        "shares": 556,
-        "price": 178.48,
-        "total": 99235,
-        "pct": 1.8,
-        "date": "2026-04-28"
-      }
-    ],
-    "LLY": [
-      {
-        "sym": "LLY",
-        "name": "LILLY ENDOWMENT INC",
-        "role": "Former 10% Shareholder",
-        "type": "sale",
-        "shares": 15828,
-        "price": 995.225,
-        "total": 15754536,
-        "pct": 0.0,
-        "date": "2026-05-06"
-      }
-    ],
-    "PYPL": [
-      {
-        "sym": "PYPL",
-        "name": "Natali Chris",
+        "sym": "VST",
+        "name": "Montemayor Margaret",
         "role": "SVP, Chief Accounting Officer",
         "type": "sale",
-        "shares": 552,
-        "price": 42.65,
-        "total": 23543,
-        "pct": 23.8,
-        "date": "2026-06-03"
+        "shares": 4600,
+        "price": 160.0,
+        "total": 736000,
+        "pct": 32.0,
+        "date": "2026-06-02"
       },
       {
-        "sym": "PYPL",
-        "name": "Kereere Suzan",
-        "role": "President, Global Markets",
+        "sym": "VST",
+        "name": "Montemayor Margaret",
+        "role": "SVP, Chief Accounting Officer",
         "type": "sale",
-        "shares": 3379,
-        "price": 42.7876,
-        "total": 144579,
-        "pct": 9.8,
-        "date": "2026-06-03"
+        "shares": 5000,
+        "price": 164.96,
+        "total": 824800,
+        "pct": 25.8,
+        "date": "2026-05-27"
       },
       {
-        "sym": "PYPL",
-        "name": "Keller Frank",
-        "role": "Pres., Checkout Sol. & PayPal",
+        "sym": "VST",
+        "name": "Moore Stephanie Zapata",
+        "role": "EVP and General Counsel",
         "type": "sale",
-        "shares": 4612,
-        "price": 42.54,
-        "total": 196194,
-        "pct": 10.0,
-        "date": "2026-06-03"
+        "shares": 10000,
+        "price": 160.31,
+        "total": 1603100,
+        "pct": 8.0,
+        "date": "2026-03-09"
+      }
+    ],
+    "CRWV": [
+      {
+        "sym": "CRWV",
+        "name": "Intrator Michael N",
+        "role": "CEO and President",
+        "type": "conversion+sell",
+        "shares": 304507,
+        "price": 119.3567,
+        "total": 37240407,
+        "pct": 1.1,
+        "date": "2026-06-02"
+      }
+    ],
+    "NOW": [
+      {
+        "sym": "NOW",
+        "name": "Briggs Teresa",
+        "role": "director",
+        "type": "sale",
+        "shares": 1595,
+        "price": 108.7,
+        "total": 173376,
+        "pct": 12.7,
+        "date": "2026-05-28"
+      }
+    ],
+    "MARA": [
+      {
+        "sym": "MARA",
+        "name": "Thiel Frederick G",
+        "role": "Chief Executive Officer",
+        "type": "sale",
+        "shares": 27505,
+        "price": 12.0,
+        "total": 330060,
+        "pct": 0.6,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "MARA",
+        "name": "Khan Salman Hassan",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 16000,
+        "price": 12.0,
+        "total": 192000,
+        "pct": 3.6,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "MARA",
+        "name": "Nowaid Zabi",
+        "role": "General Counsel",
+        "type": "sale",
+        "shares": 8250,
+        "price": 12.0,
+        "total": 99000,
+        "pct": 0.8,
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "MARA",
+        "name": "Thiel Frederick G",
+        "role": "Chief Executive Officer",
+        "type": "sale",
+        "shares": 27505,
+        "price": 11.68,
+        "total": 321258,
+        "pct": 0.6,
+        "date": "2026-04-17"
+      },
+      {
+        "sym": "MARA",
+        "name": "Nowaid Zabi",
+        "role": "General Counsel",
+        "type": "sale",
+        "shares": 42090,
+        "price": 12.0,
+        "total": 505080,
+        "pct": 4.0,
+        "date": "2026-04-17"
+      },
+      {
+        "sym": "MARA",
+        "name": "Khan Salman Hassan",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 16000,
+        "price": 11.68,
+        "total": 186880,
+        "pct": 3.5,
+        "date": "2026-04-17"
+      },
+      {
+        "sym": "MARA",
+        "name": "Thiel Frederick G",
+        "role": "Chief Executive Officer",
+        "type": "sale",
+        "shares": 27505,
+        "price": 9.18,
+        "total": 252496,
+        "pct": 0.6,
+        "date": "2026-03-17"
+      },
+      {
+        "sym": "MARA",
+        "name": "Khan Salman Hassan",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 16000,
+        "price": 9.18,
+        "total": 146880,
+        "pct": 4.5,
+        "date": "2026-03-17"
       }
     ],
     "HIMS": [
@@ -4064,6 +3681,159 @@
         "date": "2026-03-20"
       }
     ],
+    "MSFT": [
+      {
+        "sym": "MSFT",
+        "name": "Althoff Judson",
+        "role": "CEO Microsoft Commercial",
+        "type": "sale",
+        "shares": 15500,
+        "price": 460.988,
+        "total": 7145314,
+        "pct": 12.3,
+        "date": "2026-06-01"
+      },
+      {
+        "sym": "MSFT",
+        "name": "Coleman Amy",
+        "role": "EVP, Chief Human Resources Off",
+        "type": "sale",
+        "shares": 1262,
+        "price": 411.342,
+        "total": 519114,
+        "pct": 2.7,
+        "date": "2026-05-14"
+      }
+    ],
+    "BMNR": [
+      {
+        "sym": "BMNR",
+        "name": "Love Lori",
+        "role": "director",
+        "type": "purchase",
+        "shares": 227,
+        "price": 22.01,
+        "total": 4996,
+        "pct": 0.6,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "BMNR",
+        "name": "Love Lori",
+        "role": "director",
+        "type": "purchase",
+        "shares": 474,
+        "price": 22.0466,
+        "total": 10450,
+        "pct": 1.3,
+        "date": "2026-04-16"
+      }
+    ],
+    "PYPL": [
+      {
+        "sym": "PYPL",
+        "name": "Natali Chris",
+        "role": "SVP, Chief Accounting Officer",
+        "type": "sale",
+        "shares": 552,
+        "price": 42.65,
+        "total": 23543,
+        "pct": 23.8,
+        "date": "2026-06-03"
+      },
+      {
+        "sym": "PYPL",
+        "name": "Kereere Suzan",
+        "role": "President, Global Markets",
+        "type": "sale",
+        "shares": 3379,
+        "price": 42.7876,
+        "total": 144579,
+        "pct": 9.8,
+        "date": "2026-06-03"
+      },
+      {
+        "sym": "PYPL",
+        "name": "Keller Frank",
+        "role": "Pres., Checkout Sol. & PayPal",
+        "type": "sale",
+        "shares": 4612,
+        "price": 42.54,
+        "total": 196194,
+        "pct": 10.0,
+        "date": "2026-06-03"
+      }
+    ],
+    "DXCM": [
+      {
+        "sym": "DXCM",
+        "name": "SAYER KEVIN R",
+        "role": "Executive Chair",
+        "type": "sale",
+        "shares": 26759,
+        "price": 72.0,
+        "total": 1926648,
+        "pct": 6.5,
+        "date": "2026-05-21"
+      },
+      {
+        "sym": "DXCM",
+        "name": "Brown Michael Jon",
+        "role": "EVP, Chief Legal Officer",
+        "type": "sale",
+        "shares": 1700,
+        "price": 59.91,
+        "total": 101847,
+        "pct": 1.5,
+        "date": "2026-05-15"
+      },
+      {
+        "sym": "DXCM",
+        "name": "Heller Bridgette P",
+        "role": "director",
+        "type": "sale",
+        "shares": 1012,
+        "price": 60.01,
+        "total": 60730,
+        "pct": 3.9,
+        "date": "2026-05-12"
+      }
+    ],
+    "MOH": [
+      {
+        "sym": "MOH",
+        "name": "HEBERT MAURICE",
+        "role": "Chief Accounting Officer",
+        "type": "sale",
+        "shares": 600,
+        "price": 191.55,
+        "total": 114930,
+        "pct": 4.5,
+        "date": "2026-05-14"
+      },
+      {
+        "sym": "MOH",
+        "name": "Barlow Jeff D.",
+        "role": "Chief Legal Officer",
+        "type": "sale",
+        "shares": 17811,
+        "price": 186.12,
+        "total": 3314983,
+        "pct": 21.0,
+        "date": "2026-05-11"
+      },
+      {
+        "sym": "MOH",
+        "name": "ROMNEY RONNA",
+        "role": "director",
+        "type": "sale",
+        "shares": 506,
+        "price": 146.92,
+        "total": 74342,
+        "pct": 2.9,
+        "date": "2026-03-12"
+      }
+    ],
     "XYZ": [
       {
         "sym": "XYZ",
@@ -4154,6 +3924,131 @@
         "date": "2026-04-06"
       }
     ],
+    "SOUN": [
+      {
+        "sym": "SOUN",
+        "name": "SROKA DIANA",
+        "role": "director",
+        "type": "sale",
+        "shares": 1343,
+        "price": 6.7709,
+        "total": 9093,
+        "pct": 0.9,
+        "date": "2026-03-23"
+      },
+      {
+        "sym": "SOUN",
+        "name": "STONEHOCKER TIMOTHY",
+        "role": "Chief Technology Officer",
+        "type": "sale",
+        "shares": 23087,
+        "price": 6.7903,
+        "total": 156768,
+        "pct": 4.2,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "ZAGORSEK MICHAEL",
+        "role": "Chief Operating Officer",
+        "type": "sale",
+        "shares": 52968,
+        "price": 6.7903,
+        "total": 359669,
+        "pct": 3.0,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "SHARAN NITESH",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 44027,
+        "price": 6.7903,
+        "total": 298957,
+        "pct": 2.6,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "MOHAJER KEYVAN",
+        "role": "CEO",
+        "type": "sale",
+        "shares": 124510,
+        "price": 6.7903,
+        "total": 845460,
+        "pct": 5.7,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "HOM JAMES MING",
+        "role": "Chief Product Officer",
+        "type": "sale",
+        "shares": 31019,
+        "price": 6.7903,
+        "total": 210628,
+        "pct": 3.9,
+        "date": "2026-03-20"
+      },
+      {
+        "sym": "SOUN",
+        "name": "EMAMI MAJID",
+        "role": "CSO & SVP, Engineering",
+        "type": "sale",
+        "shares": 31019,
+        "price": 6.7903,
+        "total": 210628,
+        "pct": 5.8,
+        "date": "2026-03-20"
+      }
+    ],
+    "ADP": [
+      {
+        "sym": "ADP",
+        "name": "Michaud Brian L.",
+        "role": "Executive VP",
+        "type": "sale",
+        "shares": 848,
+        "price": 212.13,
+        "total": 179886,
+        "pct": 5.5,
+        "date": "2026-05-08"
+      },
+      {
+        "sym": "ADP",
+        "name": "SWAN ROBERT HOLMES",
+        "role": "director",
+        "type": "purchase",
+        "shares": 3619,
+        "price": 206.05,
+        "total": 745695,
+        "pct": 71.4,
+        "date": "2026-05-07"
+      },
+      {
+        "sym": "ADP",
+        "name": "D'Ambrosio Christopher",
+        "role": "Corp. VP",
+        "type": "sale",
+        "shares": 543,
+        "price": 195.74,
+        "total": 106287,
+        "pct": 6.1,
+        "date": "2026-04-14"
+      },
+      {
+        "sym": "ADP",
+        "name": "D'Ambrosio Christopher",
+        "role": "Corp. VP",
+        "type": "sale",
+        "shares": 543,
+        "price": 208.45,
+        "total": 113188,
+        "pct": 5.7,
+        "date": "2026-03-16"
+      }
+    ],
     "KVUE": [
       {
         "sym": "KVUE",
@@ -4165,6 +4060,80 @@
         "total": 679686,
         "pct": 100.0,
         "date": "2026-05-08"
+      }
+    ],
+    "IONQ": [
+      {
+        "sym": "IONQ",
+        "name": "Cardillo Robert T.",
+        "role": "director, other: Executive Chair, IonQ Federal",
+        "type": "exercise+sell",
+        "shares": 3773,
+        "price": 49.9,
+        "total": 188273,
+        "pct": 2.6,
+        "date": "2026-05-06"
+      },
+      {
+        "sym": "IONQ",
+        "name": "Cardillo Robert T.",
+        "role": "director, other: Executive Chair, IonQ Federal",
+        "type": "exercise+sell",
+        "shares": 2500,
+        "price": 44.9,
+        "total": 112250,
+        "pct": 1.8,
+        "date": "2026-04-16"
+      },
+      {
+        "sym": "IONQ",
+        "name": "Raymond John w",
+        "role": "director, other: Special Advisor",
+        "type": "sale",
+        "shares": 2800,
+        "price": 33.34,
+        "total": 93352,
+        "pct": 3.2,
+        "date": "2026-03-12"
+      }
+    ],
+    "UNH": [
+      {
+        "sym": "UNH",
+        "name": "Conway Patrick Hugh",
+        "role": "Chief Executive Officer, Optum",
+        "type": "sale",
+        "shares": 800,
+        "price": 355.0,
+        "total": 284000,
+        "pct": 4.3,
+        "date": "2026-04-23"
+      }
+    ],
+    "XFOR": [
+      {
+        "sym": "XFOR",
+        "name": "KIRSKE DAVID",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 16961,
+        "price": 4.2934,
+        "total": 72820,
+        "pct": 8.8,
+        "date": "2026-05-12"
+      }
+    ],
+    "LLY": [
+      {
+        "sym": "LLY",
+        "name": "LILLY ENDOWMENT INC",
+        "role": "Former 10% Shareholder",
+        "type": "sale",
+        "shares": 15828,
+        "price": 995.225,
+        "total": 15754536,
+        "pct": 0.0,
+        "date": "2026-05-06"
       }
     ],
     "RGTI": [
@@ -4257,41 +4226,72 @@
         "date": "2026-05-21"
       }
     ],
-    "BX": [
+    "IOT": [
       {
-        "sym": "BX",
-        "name": "Porat Ruth",
-        "role": "director",
-        "type": "purchase",
-        "shares": 437,
-        "price": 123.1919,
-        "total": 53747,
-        "pct": 0.5,
-        "date": "2026-05-11"
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 31081,
+        "price": 30.2921,
+        "total": 970079,
+        "pct": 1.3,
+        "date": "2026-05-28"
       },
       {
-        "sym": "BX",
-        "name": "Sawhney Vikrant",
-        "role": "Chief Administrative Officer",
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
         "type": "sale",
-        "shares": 30014,
-        "price": 125.55,
-        "total": 3775565,
-        "pct": 1.8,
-        "date": "2026-05-01"
-      }
-    ],
-    "CRWV": [
+        "shares": 30345,
+        "price": 30.2773,
+        "total": 946675,
+        "pct": 2.4,
+        "date": "2026-05-28"
+      },
       {
-        "sym": "CRWV",
-        "name": "Intrator Michael N",
-        "role": "CEO and President",
-        "type": "conversion+sell",
-        "shares": 304507,
-        "price": 119.3567,
-        "total": 37240407,
-        "pct": 1.1,
-        "date": "2026-06-02"
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 128159,
+        "price": 29.7203,
+        "total": 3848236,
+        "pct": 17.2,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 129021,
+        "price": 29.718,
+        "total": 3873708,
+        "pct": 26.4,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 104660,
+        "price": 30.3975,
+        "total": 3254935,
+        "pct": 2.1,
+        "date": "2026-05-26"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 104534,
+        "price": 30.4037,
+        "total": 3250991,
+        "pct": 2.9,
+        "date": "2026-05-26"
       }
     ]
   },
@@ -4425,7 +4425,7 @@
     {
       "event": "CPI YoY",
       "date": "2026-06-10",
-      "estimate": 4.2,
+      "estimate": 3.9,
       "previous": 3.8,
       "impact": "High"
     },
