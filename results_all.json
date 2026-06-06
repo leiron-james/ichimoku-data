@@ -1,7 +1,7 @@
 {
   "meta": {
     "run_date": "2026-06-06",
-    "run_utc": "2026-06-06T04:53:01Z"
+    "run_utc": "2026-06-06T05:00:54Z"
   },
   "signals": [
     {
@@ -2961,9 +2961,9 @@
       "dayHigh": 35071.82
     },
     "BTCUSD": {
-      "price": 59945.32,
-      "chg": -2673.8164,
-      "chgPct": -4.26997,
+      "price": 60058.75,
+      "chg": -2560.3864,
+      "chgPct": -4.08882,
       "dayLow": 59228,
       "dayHigh": 63421
     },
@@ -2990,27 +2990,418 @@
     }
   },
   "insider": {
-    "HOOD": [
+    "UNH": [
       {
-        "sym": "HOOD",
-        "name": "Gallagher Daniel Martin Jr",
+        "sym": "UNH",
+        "name": "Conway Patrick Hugh",
+        "role": "Chief Executive Officer, Optum",
+        "type": "sale",
+        "shares": 800,
+        "price": 355.0,
+        "total": 284000,
+        "pct": 4.3,
+        "date": "2026-04-23"
+      }
+    ],
+    "IOT": [
+      {
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 31081,
+        "price": 30.2921,
+        "total": 970079,
+        "pct": 1.3,
+        "date": "2026-05-28"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 30345,
+        "price": 30.2773,
+        "total": 946675,
+        "pct": 2.4,
+        "date": "2026-05-28"
+      },
+      {
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 128159,
+        "price": 29.7203,
+        "total": 3848236,
+        "pct": 17.2,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 129021,
+        "price": 29.718,
+        "total": 3873708,
+        "pct": 26.4,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "IOT",
+        "name": "Biswas Sanjit",
+        "role": "CHIEF EXECUTVE OFFICER",
+        "type": "sale",
+        "shares": 104660,
+        "price": 30.3975,
+        "total": 3254935,
+        "pct": 2.1,
+        "date": "2026-05-26"
+      },
+      {
+        "sym": "IOT",
+        "name": "Bicket John",
+        "role": "SEE REMARKS",
+        "type": "sale",
+        "shares": 104534,
+        "price": 30.4037,
+        "total": 3250991,
+        "pct": 2.9,
+        "date": "2026-05-26"
+      }
+    ],
+    "BMNR": [
+      {
+        "sym": "BMNR",
+        "name": "Love Lori",
+        "role": "director",
+        "type": "purchase",
+        "shares": 227,
+        "price": 22.01,
+        "total": 4996,
+        "pct": 0.6,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "BMNR",
+        "name": "Love Lori",
+        "role": "director",
+        "type": "purchase",
+        "shares": 474,
+        "price": 22.0466,
+        "total": 10450,
+        "pct": 1.3,
+        "date": "2026-04-16"
+      }
+    ],
+    "NFLX": [
+      {
+        "sym": "NFLX",
+        "name": "HASTINGS REED",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 386700,
+        "price": 85.8459,
+        "total": 33244035,
+        "pct": 85.2,
+        "date": "2026-06-01"
+      },
+      {
+        "sym": "NFLX",
+        "name": "Peters Gregory K",
+        "role": "Co-CEO",
+        "type": "sale",
+        "shares": 27312,
+        "price": 88.6944,
+        "total": 2422421,
+        "pct": 18.4,
+        "date": "2026-05-07"
+      },
+      {
+        "sym": "NFLX",
+        "name": "Neumann Spencer Adam",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 9253,
+        "price": 88.9522,
+        "total": 823075,
+        "pct": 11.1,
+        "date": "2026-05-07"
+      }
+    ],
+    "XFOR": [
+      {
+        "sym": "XFOR",
+        "name": "KIRSKE DAVID",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 16961,
+        "price": 4.2934,
+        "total": 72820,
+        "pct": 8.8,
+        "date": "2026-05-12"
+      }
+    ],
+    "QUBT": [
+      {
+        "sym": "QUBT",
+        "name": "Roberts Christopher Bruce",
+        "role": "CFO and General Counsel",
+        "type": "sale",
+        "shares": 9360,
+        "price": 7.852,
+        "total": 73495,
+        "pct": 0.8,
+        "date": "2026-03-11"
+      },
+      {
+        "sym": "QUBT",
+        "name": "Roberts Christopher Bruce",
+        "role": "CFO and General Counsel",
+        "type": "exercise+sell",
+        "shares": 68902,
+        "price": 7.8518,
+        "total": 541005,
+        "pct": 5.7,
+        "date": "2026-03-10"
+      }
+    ],
+    "KVUE": [
+      {
+        "sym": "KVUE",
+        "name": "Orlando Matthew",
+        "role": "General Counsel",
+        "type": "sale",
+        "shares": 38491,
+        "price": 17.6583,
+        "total": 679686,
+        "pct": 100.0,
+        "date": "2026-05-08"
+      }
+    ],
+    "RDDT": [
+      {
+        "sym": "RDDT",
+        "name": "Huffman Steve Ladd",
+        "role": "CEO & President",
+        "type": "exercise+sell",
+        "shares": 18000,
+        "price": 167.59,
+        "total": 3134316,
+        "pct": 0.2,
+        "date": "2026-05-29"
+      },
+      {
+        "sym": "RDDT",
+        "name": "Wong Jennifer L.",
+        "role": "Chief Operating Officer",
+        "type": "exercise+sell",
+        "shares": 39167,
+        "price": 154.6,
+        "total": 6208843,
+        "pct": 0.1,
+        "date": "2026-05-18"
+      }
+    ],
+    "CRWV": [
+      {
+        "sym": "CRWV",
+        "name": "Venturo Brian M",
+        "role": "Chief Strategy Officer",
+        "type": "conversion+sell",
+        "shares": 121422,
+        "price": 111.1174,
+        "total": 13632861,
+        "pct": 23.6,
+        "date": "2026-06-03"
+      }
+    ],
+    "MOH": [
+      {
+        "sym": "MOH",
+        "name": "HEBERT MAURICE",
+        "role": "Chief Accounting Officer",
+        "type": "sale",
+        "shares": 600,
+        "price": 191.55,
+        "total": 114930,
+        "pct": 4.5,
+        "date": "2026-05-14"
+      },
+      {
+        "sym": "MOH",
+        "name": "Barlow Jeff D.",
         "role": "Chief Legal Officer",
         "type": "sale",
-        "shares": 10000,
-        "price": 83.0796,
-        "total": 836771,
-        "pct": 1.0,
+        "shares": 17811,
+        "price": 186.12,
+        "total": 3314983,
+        "pct": 21.0,
+        "date": "2026-05-11"
+      },
+      {
+        "sym": "MOH",
+        "name": "ROMNEY RONNA",
+        "role": "director",
+        "type": "sale",
+        "shares": 506,
+        "price": 146.92,
+        "total": 74342,
+        "pct": 2.9,
+        "date": "2026-03-12"
+      }
+    ],
+    "LLY": [
+      {
+        "sym": "LLY",
+        "name": "LILLY ENDOWMENT INC",
+        "role": "Former 10% Shareholder",
+        "type": "sale",
+        "shares": 15828,
+        "price": 995.225,
+        "total": 15754536,
+        "pct": 0.0,
+        "date": "2026-05-06"
+      }
+    ],
+    "MORN": [
+      {
+        "sym": "MORN",
+        "name": "Lyons William M",
+        "role": "director",
+        "type": "sale",
+        "shares": 700,
+        "price": 179.0,
+        "total": 125300,
+        "pct": 4.8,
+        "date": "2026-05-27"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 2270,
+        "price": 174.0857,
+        "total": 401144,
+        "pct": 0.0,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 7250,
+        "price": 172.3272,
+        "total": 1250840,
+        "pct": 0.1,
+        "date": "2026-05-21"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 6959,
+        "price": 171.3247,
+        "total": 1193514,
+        "pct": 0.1,
+        "date": "2026-05-20"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 6728,
+        "price": 176.6647,
+        "total": 1199804,
+        "pct": 0.0,
+        "date": "2026-05-19"
+      },
+      {
+        "sym": "MORN",
+        "name": "Mansueto Joseph D",
+        "role": "Executive Chairman",
+        "type": "sale",
+        "shares": 7250,
+        "price": 171.3338,
+        "total": 1274832,
+        "pct": 0.0,
+        "date": "2026-05-18"
+      }
+    ],
+    "BX": [
+      {
+        "sym": "BX",
+        "name": "Porat Ruth",
+        "role": "director",
+        "type": "purchase",
+        "shares": 437,
+        "price": 123.1919,
+        "total": 53747,
+        "pct": 0.5,
+        "date": "2026-05-11"
+      },
+      {
+        "sym": "BX",
+        "name": "Sawhney Vikrant",
+        "role": "Chief Administrative Officer",
+        "type": "sale",
+        "shares": 30014,
+        "price": 125.55,
+        "total": 3775565,
+        "pct": 1.8,
+        "date": "2026-05-01"
+      }
+    ],
+    "NOW": [
+      {
+        "sym": "NOW",
+        "name": "Briggs Teresa",
+        "role": "director",
+        "type": "sale",
+        "shares": 1595,
+        "price": 108.7,
+        "total": 173376,
+        "pct": 12.7,
+        "date": "2026-05-28"
+      }
+    ],
+    "PYPL": [
+      {
+        "sym": "PYPL",
+        "name": "Natali Chris",
+        "role": "SVP, Chief Accounting Officer",
+        "type": "sale",
+        "shares": 552,
+        "price": 42.65,
+        "total": 23543,
+        "pct": 23.8,
         "date": "2026-06-03"
       },
       {
-        "sym": "HOOD",
-        "name": "Quirk Steven M.",
-        "role": "Chief Brokerage Officer",
+        "sym": "PYPL",
+        "name": "Kereere Suzan",
+        "role": "President, Global Markets",
         "type": "sale",
-        "shares": 10837,
-        "price": 85.7749,
-        "total": 931025,
-        "pct": 9.2,
+        "shares": 3379,
+        "price": 42.7876,
+        "total": 144579,
+        "pct": 9.8,
+        "date": "2026-06-03"
+      },
+      {
+        "sym": "PYPL",
+        "name": "Keller Frank",
+        "role": "Pres., Checkout Sol. & PayPal",
+        "type": "sale",
+        "shares": 4612,
+        "price": 42.54,
+        "total": 196194,
+        "pct": 10.0,
         "date": "2026-06-03"
       }
     ],
@@ -3104,17 +3495,98 @@
         "date": "2026-04-06"
       }
     ],
-    "XFOR": [
+    "MSFT": [
       {
-        "sym": "XFOR",
-        "name": "KIRSKE DAVID",
-        "role": "Chief Financial Officer",
+        "sym": "MSFT",
+        "name": "Althoff Judson",
+        "role": "CEO Microsoft Commercial",
         "type": "sale",
-        "shares": 16961,
-        "price": 4.2934,
-        "total": 72820,
-        "pct": 8.8,
-        "date": "2026-05-12"
+        "shares": 15500,
+        "price": 460.988,
+        "total": 7145314,
+        "pct": 12.3,
+        "date": "2026-06-01"
+      },
+      {
+        "sym": "MSFT",
+        "name": "Coleman Amy",
+        "role": "EVP, Chief Human Resources Off",
+        "type": "sale",
+        "shares": 1262,
+        "price": 411.342,
+        "total": 519114,
+        "pct": 2.7,
+        "date": "2026-05-14"
+      }
+    ],
+    "GLXY": [
+      {
+        "sym": "GLXY",
+        "name": "DAFFEY MICHAEL D",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 250000,
+        "price": 28.6599,
+        "total": 7219141,
+        "pct": 9.2,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "GLXY",
+        "name": "DAFFEY MICHAEL D",
+        "role": "director",
+        "type": "exercise+sell",
+        "shares": 250000,
+        "price": 28.655,
+        "total": 7193268,
+        "pct": 9.7,
+        "date": "2026-05-21"
+      }
+    ],
+    "ADP": [
+      {
+        "sym": "ADP",
+        "name": "Michaud Brian L.",
+        "role": "Executive VP",
+        "type": "sale",
+        "shares": 848,
+        "price": 212.13,
+        "total": 179886,
+        "pct": 5.5,
+        "date": "2026-05-08"
+      },
+      {
+        "sym": "ADP",
+        "name": "SWAN ROBERT HOLMES",
+        "role": "director",
+        "type": "purchase",
+        "shares": 3619,
+        "price": 206.05,
+        "total": 745695,
+        "pct": 71.4,
+        "date": "2026-05-07"
+      },
+      {
+        "sym": "ADP",
+        "name": "D'Ambrosio Christopher",
+        "role": "Corp. VP",
+        "type": "sale",
+        "shares": 543,
+        "price": 195.74,
+        "total": 106287,
+        "pct": 6.1,
+        "date": "2026-04-14"
+      },
+      {
+        "sym": "ADP",
+        "name": "D'Ambrosio Christopher",
+        "role": "Corp. VP",
+        "type": "sale",
+        "shares": 543,
+        "price": 208.45,
+        "total": 113188,
+        "pct": 5.7,
+        "date": "2026-03-16"
       }
     ],
     "RGTI": [
@@ -3207,179 +3679,96 @@
         "date": "2026-05-21"
       }
     ],
-    "TONX": [
+    "DXCM": [
       {
-        "sym": "TONX",
-        "name": "Marbach Mary",
-        "role": "General Counsel/Corp Secretary",
-        "type": "purchase",
-        "shares": 1600,
-        "price": 3.52,
-        "total": 5632,
-        "pct": 100.0,
-        "date": "2026-05-15"
-      },
-      {
-        "sym": "TONX",
-        "name": "Wilson Kevin Mark",
-        "role": "Chief Executive Officer",
-        "type": "purchase",
-        "shares": 16040,
-        "price": 3.66,
-        "total": 58706,
-        "pct": 100.0,
-        "date": "2026-05-14"
-      },
-      {
-        "sym": "TONX",
-        "name": "Sohn Evan",
-        "role": "director",
-        "type": "purchase",
-        "shares": 5540,
-        "price": 3.585,
-        "total": 19860,
-        "pct": 51.3,
-        "date": "2026-05-14"
-      },
-      {
-        "sym": "TONX",
-        "name": "Olsen Sarah Josephine",
-        "role": "CFO & COO",
-        "type": "purchase",
-        "shares": 7440,
-        "price": 3.62,
-        "total": 26933,
-        "pct": 100.0,
-        "date": "2026-05-14"
-      }
-    ],
-    "MORN": [
-      {
-        "sym": "MORN",
-        "name": "Lyons William M",
-        "role": "director",
+        "sym": "DXCM",
+        "name": "Coleman Jon",
+        "role": "EVP, Chief Commercial Officer",
         "type": "sale",
-        "shares": 700,
-        "price": 179.0,
-        "total": 125300,
-        "pct": 4.8,
-        "date": "2026-05-27"
+        "shares": 4911,
+        "price": 74.13,
+        "total": 364052,
+        "pct": 4.9,
+        "date": "2026-06-04"
       },
       {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
+        "sym": "DXCM",
+        "name": "Coleman Jon",
+        "role": "EVP, Chief Commercial Officer",
         "type": "sale",
-        "shares": 2270,
-        "price": 174.0857,
-        "total": 401144,
-        "pct": 0.0,
-        "date": "2026-05-22"
+        "shares": 4912,
+        "price": 73.0,
+        "total": 358576,
+        "pct": 4.7,
+        "date": "2026-06-03"
       },
       {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
+        "sym": "DXCM",
+        "name": "SAYER KEVIN R",
+        "role": "Executive Chair",
         "type": "sale",
-        "shares": 7250,
-        "price": 172.3272,
-        "total": 1250840,
-        "pct": 0.1,
+        "shares": 26759,
+        "price": 72.0,
+        "total": 1926648,
+        "pct": 6.5,
         "date": "2026-05-21"
       },
       {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
+        "sym": "DXCM",
+        "name": "Brown Michael Jon",
+        "role": "EVP, Chief Legal Officer",
         "type": "sale",
-        "shares": 6959,
-        "price": 171.3247,
-        "total": 1193514,
-        "pct": 0.1,
-        "date": "2026-05-20"
+        "shares": 1700,
+        "price": 59.91,
+        "total": 101847,
+        "pct": 1.5,
+        "date": "2026-05-15"
       },
       {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
-        "type": "sale",
-        "shares": 6728,
-        "price": 176.6647,
-        "total": 1199804,
-        "pct": 0.0,
-        "date": "2026-05-19"
-      },
-      {
-        "sym": "MORN",
-        "name": "Mansueto Joseph D",
-        "role": "Executive Chairman",
-        "type": "sale",
-        "shares": 7250,
-        "price": 171.3338,
-        "total": 1274832,
-        "pct": 0.0,
-        "date": "2026-05-18"
-      }
-    ],
-    "KVUE": [
-      {
-        "sym": "KVUE",
-        "name": "Orlando Matthew",
-        "role": "General Counsel",
-        "type": "sale",
-        "shares": 38491,
-        "price": 17.6583,
-        "total": 679686,
-        "pct": 100.0,
-        "date": "2026-05-08"
-      }
-    ],
-    "NFLX": [
-      {
-        "sym": "NFLX",
-        "name": "HASTINGS REED",
+        "sym": "DXCM",
+        "name": "Heller Bridgette P",
         "role": "director",
-        "type": "exercise+sell",
-        "shares": 386700,
-        "price": 85.8459,
-        "total": 33244035,
-        "pct": 85.2,
-        "date": "2026-06-01"
-      },
-      {
-        "sym": "NFLX",
-        "name": "Peters Gregory K",
-        "role": "Co-CEO",
         "type": "sale",
-        "shares": 27312,
-        "price": 88.6944,
-        "total": 2422421,
-        "pct": 18.4,
-        "date": "2026-05-07"
-      },
-      {
-        "sym": "NFLX",
-        "name": "Neumann Spencer Adam",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 9253,
-        "price": 88.9522,
-        "total": 823075,
-        "pct": 11.1,
-        "date": "2026-05-07"
+        "shares": 1012,
+        "price": 60.01,
+        "total": 60730,
+        "pct": 3.9,
+        "date": "2026-05-12"
       }
     ],
-    "CRWV": [
+    "IONQ": [
       {
-        "sym": "CRWV",
-        "name": "Venturo Brian M",
-        "role": "Chief Strategy Officer",
-        "type": "conversion+sell",
-        "shares": 121422,
-        "price": 111.1174,
-        "total": 13632861,
-        "pct": 23.6,
-        "date": "2026-06-03"
+        "sym": "IONQ",
+        "name": "Cardillo Robert T.",
+        "role": "director, other: Executive Chair, IonQ Federal",
+        "type": "exercise+sell",
+        "shares": 3773,
+        "price": 49.9,
+        "total": 188273,
+        "pct": 2.6,
+        "date": "2026-05-06"
+      },
+      {
+        "sym": "IONQ",
+        "name": "Cardillo Robert T.",
+        "role": "director, other: Executive Chair, IonQ Federal",
+        "type": "exercise+sell",
+        "shares": 2500,
+        "price": 44.9,
+        "total": 112250,
+        "pct": 1.8,
+        "date": "2026-04-16"
+      },
+      {
+        "sym": "IONQ",
+        "name": "Raymond John w",
+        "role": "director, other: Special Advisor",
+        "type": "sale",
+        "shares": 2800,
+        "price": 33.34,
+        "total": 93352,
+        "pct": 3.2,
+        "date": "2026-03-12"
       }
     ],
     "TE": [
@@ -3404,30 +3793,6 @@
         "total": 113018494,
         "pct": 16.6,
         "date": "2026-05-21"
-      }
-    ],
-    "MSFT": [
-      {
-        "sym": "MSFT",
-        "name": "Althoff Judson",
-        "role": "CEO Microsoft Commercial",
-        "type": "sale",
-        "shares": 15500,
-        "price": 460.988,
-        "total": 7145314,
-        "pct": 12.3,
-        "date": "2026-06-01"
-      },
-      {
-        "sym": "MSFT",
-        "name": "Coleman Amy",
-        "role": "EVP, Chief Human Resources Off",
-        "type": "sale",
-        "shares": 1262,
-        "price": 411.342,
-        "total": 519114,
-        "pct": 2.7,
-        "date": "2026-05-14"
       }
     ],
     "SOUN": [
@@ -3509,356 +3874,6 @@
         "date": "2026-03-20"
       }
     ],
-    "UNH": [
-      {
-        "sym": "UNH",
-        "name": "Conway Patrick Hugh",
-        "role": "Chief Executive Officer, Optum",
-        "type": "sale",
-        "shares": 800,
-        "price": 355.0,
-        "total": 284000,
-        "pct": 4.3,
-        "date": "2026-04-23"
-      }
-    ],
-    "RIOT": [
-      {
-        "sym": "RIOT",
-        "name": "Werner Ryan D.",
-        "role": "SVP, CAO",
-        "type": "sale",
-        "shares": 37616,
-        "price": 26.5,
-        "total": 996824,
-        "pct": 3.8,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "RIOT",
-        "name": "Les Jason",
-        "role": "CEO",
-        "type": "sale",
-        "shares": 175000,
-        "price": 25.19,
-        "total": 4408250,
-        "pct": 11.7,
-        "date": "2026-05-11"
-      }
-    ],
-    "TGT": [
-      {
-        "sym": "TGT",
-        "name": "SYLVESTER CARA A",
-        "role": "Executive Officer",
-        "type": "sale",
-        "shares": 10000,
-        "price": 125.8905,
-        "total": 1258905,
-        "pct": 17.9,
-        "date": "2026-05-29"
-      },
-      {
-        "sym": "TGT",
-        "name": "Cornell Brian C",
-        "role": "Executive Officer",
-        "type": "sale",
-        "shares": 50000,
-        "price": 129.8383,
-        "total": 6492623,
-        "pct": 20.1,
-        "date": "2026-05-27"
-      },
-      {
-        "sym": "TGT",
-        "name": "LIEGEL MATTHEW A",
-        "role": "Chief Accounting Officer",
-        "type": "sale",
-        "shares": 2053,
-        "price": 117.1911,
-        "total": 240593,
-        "pct": 14.5,
-        "date": "2026-03-17"
-      }
-    ],
-    "AMT": [
-      {
-        "sym": "AMT",
-        "name": "Dowling Ruth T",
-        "role": "EVP, Chief Admin Ofr, GC & Sec",
-        "type": "sale",
-        "shares": 416,
-        "price": 177.54,
-        "total": 73857,
-        "pct": 1.4,
-        "date": "2026-04-29"
-      },
-      {
-        "sym": "AMT",
-        "name": "Dowling Ruth T",
-        "role": "EVP, Chief Admin Ofr, GC & Sec",
-        "type": "sale",
-        "shares": 556,
-        "price": 178.48,
-        "total": 99235,
-        "pct": 1.8,
-        "date": "2026-04-28"
-      }
-    ],
-    "IONQ": [
-      {
-        "sym": "IONQ",
-        "name": "Cardillo Robert T.",
-        "role": "director, other: Executive Chair, IonQ Federal",
-        "type": "exercise+sell",
-        "shares": 3773,
-        "price": 49.9,
-        "total": 188273,
-        "pct": 2.6,
-        "date": "2026-05-06"
-      },
-      {
-        "sym": "IONQ",
-        "name": "Cardillo Robert T.",
-        "role": "director, other: Executive Chair, IonQ Federal",
-        "type": "exercise+sell",
-        "shares": 2500,
-        "price": 44.9,
-        "total": 112250,
-        "pct": 1.8,
-        "date": "2026-04-16"
-      },
-      {
-        "sym": "IONQ",
-        "name": "Raymond John w",
-        "role": "director, other: Special Advisor",
-        "type": "sale",
-        "shares": 2800,
-        "price": 33.34,
-        "total": 93352,
-        "pct": 3.2,
-        "date": "2026-03-12"
-      }
-    ],
-    "QUBT": [
-      {
-        "sym": "QUBT",
-        "name": "Roberts Christopher Bruce",
-        "role": "CFO and General Counsel",
-        "type": "sale",
-        "shares": 9360,
-        "price": 7.852,
-        "total": 73495,
-        "pct": 0.8,
-        "date": "2026-03-11"
-      },
-      {
-        "sym": "QUBT",
-        "name": "Roberts Christopher Bruce",
-        "role": "CFO and General Counsel",
-        "type": "exercise+sell",
-        "shares": 68902,
-        "price": 7.8518,
-        "total": 541005,
-        "pct": 5.7,
-        "date": "2026-03-10"
-      }
-    ],
-    "DXCM": [
-      {
-        "sym": "DXCM",
-        "name": "Coleman Jon",
-        "role": "EVP, Chief Commercial Officer",
-        "type": "sale",
-        "shares": 4911,
-        "price": 74.13,
-        "total": 364052,
-        "pct": 4.9,
-        "date": "2026-06-04"
-      },
-      {
-        "sym": "DXCM",
-        "name": "Coleman Jon",
-        "role": "EVP, Chief Commercial Officer",
-        "type": "sale",
-        "shares": 4912,
-        "price": 73.0,
-        "total": 358576,
-        "pct": 4.7,
-        "date": "2026-06-03"
-      },
-      {
-        "sym": "DXCM",
-        "name": "SAYER KEVIN R",
-        "role": "Executive Chair",
-        "type": "sale",
-        "shares": 26759,
-        "price": 72.0,
-        "total": 1926648,
-        "pct": 6.5,
-        "date": "2026-05-21"
-      },
-      {
-        "sym": "DXCM",
-        "name": "Brown Michael Jon",
-        "role": "EVP, Chief Legal Officer",
-        "type": "sale",
-        "shares": 1700,
-        "price": 59.91,
-        "total": 101847,
-        "pct": 1.5,
-        "date": "2026-05-15"
-      },
-      {
-        "sym": "DXCM",
-        "name": "Heller Bridgette P",
-        "role": "director",
-        "type": "sale",
-        "shares": 1012,
-        "price": 60.01,
-        "total": 60730,
-        "pct": 3.9,
-        "date": "2026-05-12"
-      }
-    ],
-    "LLY": [
-      {
-        "sym": "LLY",
-        "name": "LILLY ENDOWMENT INC",
-        "role": "Former 10% Shareholder",
-        "type": "sale",
-        "shares": 15828,
-        "price": 995.225,
-        "total": 15754536,
-        "pct": 0.0,
-        "date": "2026-05-06"
-      }
-    ],
-    "HIMS": [
-      {
-        "sym": "HIMS",
-        "name": "WELLS DAVID B",
-        "role": "director",
-        "type": "purchase",
-        "shares": 48400,
-        "price": 24.235,
-        "total": 1172974,
-        "pct": 21.6,
-        "date": "2026-05-26"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 7950,
-        "price": 23.6372,
-        "total": 187916,
-        "pct": 2.9,
-        "date": "2026-05-18"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Boughton Soleil",
-        "role": "Chief Legal Officer",
-        "type": "sale",
-        "shares": 9463,
-        "price": 30.0,
-        "total": 283890,
-        "pct": 3.1,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 19645,
-        "price": 29.9626,
-        "total": 588615,
-        "pct": 7.0,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 18005,
-        "price": 27.8344,
-        "total": 501158,
-        "pct": 6.3,
-        "date": "2026-04-17"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "sale",
-        "shares": 36922,
-        "price": 25.8964,
-        "total": 956147,
-        "pct": 11.6,
-        "date": "2026-04-16"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 3975,
-        "price": 19.977,
-        "total": 79409,
-        "pct": 1.2,
-        "date": "2026-04-06"
-      },
-      {
-        "sym": "HIMS",
-        "name": "Okupe Oluyemi",
-        "role": "Chief Financial Officer",
-        "type": "exercise+sell",
-        "shares": 9217,
-        "price": 23.7677,
-        "total": 219067,
-        "pct": 2.8,
-        "date": "2026-03-20"
-      }
-    ],
-    "MOH": [
-      {
-        "sym": "MOH",
-        "name": "HEBERT MAURICE",
-        "role": "Chief Accounting Officer",
-        "type": "sale",
-        "shares": 600,
-        "price": 191.55,
-        "total": 114930,
-        "pct": 4.5,
-        "date": "2026-05-14"
-      },
-      {
-        "sym": "MOH",
-        "name": "Barlow Jeff D.",
-        "role": "Chief Legal Officer",
-        "type": "sale",
-        "shares": 17811,
-        "price": 186.12,
-        "total": 3314983,
-        "pct": 21.0,
-        "date": "2026-05-11"
-      },
-      {
-        "sym": "MOH",
-        "name": "ROMNEY RONNA",
-        "role": "director",
-        "type": "sale",
-        "shares": 506,
-        "price": 146.92,
-        "total": 74342,
-        "pct": 2.9,
-        "date": "2026-03-12"
-      }
-    ],
     "SG": [
       {
         "sym": "SG",
@@ -3892,6 +3907,41 @@
         "total": 53360,
         "pct": 0.0,
         "date": "2026-04-07"
+      }
+    ],
+    "BBAI": [
+      {
+        "sym": "BBAI",
+        "name": "Ricker Sean Raymond",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 10000,
+        "price": 4.33,
+        "total": 43300,
+        "pct": 1.6,
+        "date": "2026-05-22"
+      },
+      {
+        "sym": "BBAI",
+        "name": "HAYES DOROTHY D",
+        "role": "director",
+        "type": "sale",
+        "shares": 15000,
+        "price": 4.105,
+        "total": 61575,
+        "pct": 6.8,
+        "date": "2026-05-08"
+      },
+      {
+        "sym": "BBAI",
+        "name": "Braden Pamela Joyce",
+        "role": "director",
+        "type": "sale",
+        "shares": 80000,
+        "price": 4.0,
+        "total": 320000,
+        "pct": 13.6,
+        "date": "2026-03-16"
       }
     ],
     "QBTS": [
@@ -3962,52 +4012,6 @@
         "date": "2026-03-16"
       }
     ],
-    "ADP": [
-      {
-        "sym": "ADP",
-        "name": "Michaud Brian L.",
-        "role": "Executive VP",
-        "type": "sale",
-        "shares": 848,
-        "price": 212.13,
-        "total": 179886,
-        "pct": 5.5,
-        "date": "2026-05-08"
-      },
-      {
-        "sym": "ADP",
-        "name": "SWAN ROBERT HOLMES",
-        "role": "director",
-        "type": "purchase",
-        "shares": 3619,
-        "price": 206.05,
-        "total": 745695,
-        "pct": 71.4,
-        "date": "2026-05-07"
-      },
-      {
-        "sym": "ADP",
-        "name": "D'Ambrosio Christopher",
-        "role": "Corp. VP",
-        "type": "sale",
-        "shares": 543,
-        "price": 195.74,
-        "total": 106287,
-        "pct": 6.1,
-        "date": "2026-04-14"
-      },
-      {
-        "sym": "ADP",
-        "name": "D'Ambrosio Christopher",
-        "role": "Corp. VP",
-        "type": "sale",
-        "shares": 543,
-        "price": 208.45,
-        "total": 113188,
-        "pct": 5.7,
-        "date": "2026-03-16"
-      }
-    ],
     "VST": [
       {
         "sym": "VST",
@@ -4043,124 +4047,28 @@
         "date": "2026-03-09"
       }
     ],
-    "RDDT": [
+    "RIOT": [
       {
-        "sym": "RDDT",
-        "name": "Huffman Steve Ladd",
-        "role": "CEO & President",
-        "type": "exercise+sell",
-        "shares": 18000,
-        "price": 167.59,
-        "total": 3134316,
-        "pct": 0.2,
-        "date": "2026-05-29"
-      },
-      {
-        "sym": "RDDT",
-        "name": "Wong Jennifer L.",
-        "role": "Chief Operating Officer",
-        "type": "exercise+sell",
-        "shares": 39167,
-        "price": 154.6,
-        "total": 6208843,
-        "pct": 0.1,
-        "date": "2026-05-18"
-      }
-    ],
-    "BMNR": [
-      {
-        "sym": "BMNR",
-        "name": "Love Lori",
-        "role": "director",
-        "type": "purchase",
-        "shares": 227,
-        "price": 22.01,
-        "total": 4996,
-        "pct": 0.6,
-        "date": "2026-04-20"
-      },
-      {
-        "sym": "BMNR",
-        "name": "Love Lori",
-        "role": "director",
-        "type": "purchase",
-        "shares": 474,
-        "price": 22.0466,
-        "total": 10450,
-        "pct": 1.3,
-        "date": "2026-04-16"
-      }
-    ],
-    "NOW": [
-      {
-        "sym": "NOW",
-        "name": "Briggs Teresa",
-        "role": "director",
+        "sym": "RIOT",
+        "name": "Werner Ryan D.",
+        "role": "SVP, CAO",
         "type": "sale",
-        "shares": 1595,
-        "price": 108.7,
-        "total": 173376,
-        "pct": 12.7,
-        "date": "2026-05-28"
-      }
-    ],
-    "GLXY": [
-      {
-        "sym": "GLXY",
-        "name": "DAFFEY MICHAEL D",
-        "role": "director",
-        "type": "exercise+sell",
-        "shares": 250000,
-        "price": 28.6599,
-        "total": 7219141,
-        "pct": 9.2,
-        "date": "2026-05-22"
+        "shares": 37616,
+        "price": 26.5,
+        "total": 996824,
+        "pct": 3.8,
+        "date": "2026-05-27"
       },
       {
-        "sym": "GLXY",
-        "name": "DAFFEY MICHAEL D",
-        "role": "director",
-        "type": "exercise+sell",
-        "shares": 250000,
-        "price": 28.655,
-        "total": 7193268,
-        "pct": 9.7,
-        "date": "2026-05-21"
-      }
-    ],
-    "PYPL": [
-      {
-        "sym": "PYPL",
-        "name": "Natali Chris",
-        "role": "SVP, Chief Accounting Officer",
+        "sym": "RIOT",
+        "name": "Les Jason",
+        "role": "CEO",
         "type": "sale",
-        "shares": 552,
-        "price": 42.65,
-        "total": 23543,
-        "pct": 23.8,
-        "date": "2026-06-03"
-      },
-      {
-        "sym": "PYPL",
-        "name": "Kereere Suzan",
-        "role": "President, Global Markets",
-        "type": "sale",
-        "shares": 3379,
-        "price": 42.7876,
-        "total": 144579,
-        "pct": 9.8,
-        "date": "2026-06-03"
-      },
-      {
-        "sym": "PYPL",
-        "name": "Keller Frank",
-        "role": "Pres., Checkout Sol. & PayPal",
-        "type": "sale",
-        "shares": 4612,
-        "price": 42.54,
-        "total": 196194,
-        "pct": 10.0,
-        "date": "2026-06-03"
+        "shares": 175000,
+        "price": 25.19,
+        "total": 4408250,
+        "pct": 11.7,
+        "date": "2026-05-11"
       }
     ],
     "MARA": [
@@ -4253,96 +4161,199 @@
         "date": "2026-03-17"
       }
     ],
-    "BX": [
+    "TONX": [
       {
-        "sym": "BX",
-        "name": "Porat Ruth",
+        "sym": "TONX",
+        "name": "Marbach Mary",
+        "role": "General Counsel/Corp Secretary",
+        "type": "purchase",
+        "shares": 1600,
+        "price": 3.52,
+        "total": 5632,
+        "pct": 100.0,
+        "date": "2026-05-15"
+      },
+      {
+        "sym": "TONX",
+        "name": "Wilson Kevin Mark",
+        "role": "Chief Executive Officer",
+        "type": "purchase",
+        "shares": 16040,
+        "price": 3.66,
+        "total": 58706,
+        "pct": 100.0,
+        "date": "2026-05-14"
+      },
+      {
+        "sym": "TONX",
+        "name": "Sohn Evan",
         "role": "director",
         "type": "purchase",
-        "shares": 437,
-        "price": 123.1919,
-        "total": 53747,
-        "pct": 0.5,
-        "date": "2026-05-11"
+        "shares": 5540,
+        "price": 3.585,
+        "total": 19860,
+        "pct": 51.3,
+        "date": "2026-05-14"
       },
       {
-        "sym": "BX",
-        "name": "Sawhney Vikrant",
-        "role": "Chief Administrative Officer",
-        "type": "sale",
-        "shares": 30014,
-        "price": 125.55,
-        "total": 3775565,
-        "pct": 1.8,
-        "date": "2026-05-01"
+        "sym": "TONX",
+        "name": "Olsen Sarah Josephine",
+        "role": "CFO & COO",
+        "type": "purchase",
+        "shares": 7440,
+        "price": 3.62,
+        "total": 26933,
+        "pct": 100.0,
+        "date": "2026-05-14"
       }
     ],
-    "IOT": [
+    "TGT": [
       {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
+        "sym": "TGT",
+        "name": "SYLVESTER CARA A",
+        "role": "Executive Officer",
         "type": "sale",
-        "shares": 31081,
-        "price": 30.2921,
-        "total": 970079,
-        "pct": 1.3,
-        "date": "2026-05-28"
+        "shares": 10000,
+        "price": 125.8905,
+        "total": 1258905,
+        "pct": 17.9,
+        "date": "2026-05-29"
       },
       {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
+        "sym": "TGT",
+        "name": "Cornell Brian C",
+        "role": "Executive Officer",
         "type": "sale",
-        "shares": 30345,
-        "price": 30.2773,
-        "total": 946675,
-        "pct": 2.4,
-        "date": "2026-05-28"
-      },
-      {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
-        "type": "sale",
-        "shares": 128159,
-        "price": 29.7203,
-        "total": 3848236,
-        "pct": 17.2,
+        "shares": 50000,
+        "price": 129.8383,
+        "total": 6492623,
+        "pct": 20.1,
         "date": "2026-05-27"
       },
       {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
+        "sym": "TGT",
+        "name": "LIEGEL MATTHEW A",
+        "role": "Chief Accounting Officer",
         "type": "sale",
-        "shares": 129021,
-        "price": 29.718,
-        "total": 3873708,
-        "pct": 26.4,
-        "date": "2026-05-27"
+        "shares": 2053,
+        "price": 117.1911,
+        "total": 240593,
+        "pct": 14.5,
+        "date": "2026-03-17"
+      }
+    ],
+    "HOOD": [
+      {
+        "sym": "HOOD",
+        "name": "Gallagher Daniel Martin Jr",
+        "role": "Chief Legal Officer",
+        "type": "sale",
+        "shares": 10000,
+        "price": 83.0796,
+        "total": 836771,
+        "pct": 1.0,
+        "date": "2026-06-03"
       },
       {
-        "sym": "IOT",
-        "name": "Biswas Sanjit",
-        "role": "CHIEF EXECUTVE OFFICER",
+        "sym": "HOOD",
+        "name": "Quirk Steven M.",
+        "role": "Chief Brokerage Officer",
         "type": "sale",
-        "shares": 104660,
-        "price": 30.3975,
-        "total": 3254935,
-        "pct": 2.1,
+        "shares": 10837,
+        "price": 85.7749,
+        "total": 931025,
+        "pct": 9.2,
+        "date": "2026-06-03"
+      }
+    ],
+    "HIMS": [
+      {
+        "sym": "HIMS",
+        "name": "WELLS DAVID B",
+        "role": "director",
+        "type": "purchase",
+        "shares": 48400,
+        "price": 24.235,
+        "total": 1172974,
+        "pct": 21.6,
         "date": "2026-05-26"
       },
       {
-        "sym": "IOT",
-        "name": "Bicket John",
-        "role": "SEE REMARKS",
-        "type": "sale",
-        "shares": 104534,
-        "price": 30.4037,
-        "total": 3250991,
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 7950,
+        "price": 23.6372,
+        "total": 187916,
         "pct": 2.9,
-        "date": "2026-05-26"
+        "date": "2026-05-18"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Boughton Soleil",
+        "role": "Chief Legal Officer",
+        "type": "sale",
+        "shares": 9463,
+        "price": 30.0,
+        "total": 283890,
+        "pct": 3.1,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 19645,
+        "price": 29.9626,
+        "total": 588615,
+        "pct": 7.0,
+        "date": "2026-04-20"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 18005,
+        "price": 27.8344,
+        "total": 501158,
+        "pct": 6.3,
+        "date": "2026-04-17"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "sale",
+        "shares": 36922,
+        "price": 25.8964,
+        "total": 956147,
+        "pct": 11.6,
+        "date": "2026-04-16"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 3975,
+        "price": 19.977,
+        "total": 79409,
+        "pct": 1.2,
+        "date": "2026-04-06"
+      },
+      {
+        "sym": "HIMS",
+        "name": "Okupe Oluyemi",
+        "role": "Chief Financial Officer",
+        "type": "exercise+sell",
+        "shares": 9217,
+        "price": 23.7677,
+        "total": 219067,
+        "pct": 2.8,
+        "date": "2026-03-20"
       }
     ],
     "HIVE": [
@@ -4369,39 +4380,28 @@
         "date": "2026-06-03"
       }
     ],
-    "BBAI": [
+    "AMT": [
       {
-        "sym": "BBAI",
-        "name": "Ricker Sean Raymond",
-        "role": "Chief Financial Officer",
+        "sym": "AMT",
+        "name": "Dowling Ruth T",
+        "role": "EVP, Chief Admin Ofr, GC & Sec",
         "type": "sale",
-        "shares": 10000,
-        "price": 4.33,
-        "total": 43300,
-        "pct": 1.6,
-        "date": "2026-05-22"
+        "shares": 416,
+        "price": 177.54,
+        "total": 73857,
+        "pct": 1.4,
+        "date": "2026-04-29"
       },
       {
-        "sym": "BBAI",
-        "name": "HAYES DOROTHY D",
-        "role": "director",
+        "sym": "AMT",
+        "name": "Dowling Ruth T",
+        "role": "EVP, Chief Admin Ofr, GC & Sec",
         "type": "sale",
-        "shares": 15000,
-        "price": 4.105,
-        "total": 61575,
-        "pct": 6.8,
-        "date": "2026-05-08"
-      },
-      {
-        "sym": "BBAI",
-        "name": "Braden Pamela Joyce",
-        "role": "director",
-        "type": "sale",
-        "shares": 80000,
-        "price": 4.0,
-        "total": 320000,
-        "pct": 13.6,
-        "date": "2026-03-16"
+        "shares": 556,
+        "price": 178.48,
+        "total": 99235,
+        "pct": 1.8,
+        "date": "2026-04-28"
       }
     ]
   },
@@ -4549,34 +4549,34 @@
     {
       "event": "FOMC",
       "date": "2026-06-17",
-      "estimate": 3.75,
-      "previous": 3.75,
+      "estimate": null,
+      "previous": null,
       "impact": "High"
     }
   ],
-  "macro_banner": "\u26a0 CPI MoM Jun 10 (+0.5%) \u00b7 Core CPI Jun 10 (+0.3%) \u00b7 PPI MoM Jun 11 (+0.8%) \u00b7 Retail Sales Jun 17 (+0.6%) \u00b7 FOMC Jun 17 (3.75%)",
+  "macro_banner": "\u26a0 CPI MoM Jun 10 (+0.5%) \u00b7 Core CPI Jun 10 (+0.3%) \u00b7 PPI MoM Jun 11 (+0.8%) \u00b7 Retail Sales Jun 17 (+0.6%) \u00b7 FOMC Jun 17",
   "transcripts": {
     "IOT": {
       "date": "2026-06-04",
       "quarter": 1,
       "year": 2026,
       "beat_miss": "beat",
-      "vs_est": "+3.1% vs est",
+      "vs_est": "+1.4% vs est",
       "guidance": "lowered",
-      "guidance_note": "FY26 revenue guidance of $1.547B-$1.555B implies 24-25% growth, down from prior expectations due to macro uncertainty and tariff-related delays elongating sales cycles post-Liberation Day in April.",
-      "tone": "mixed",
+      "guidance_note": "FY26 revenue guided to $1.547B-$1.555B (24% growth) vs prior implied guidance of ~$1.56B+, citing elongated sales cycles post-Liberation Day and macro uncertainty from tariffs.",
+      "tone": "cautious",
       "bullets": [
-        "Q1 ARR reached $1.54 billion growing 31% YoY with revenue of $367 million up 31% YoY; added 154 customers with $100K+ ARR (up 35% YoY) to reach 2,638 total",
-        "Non-GAAP operating margin expanded to 14% vs 2% in Q1 FY25 with record gross margin of 79%; free cash flow margin improved to 12% vs 7% prior year",
-        "Dollar-based net retention rate maintained at approximately 115%; 95% of $100K+ ARR customers subscribe to 2+ products and 66% subscribe to 3+ products",
-        "International contributed 18% of net new ACV (tied for highest ever) with Europe accelerating sequentially; construction led for 7th consecutive quarter, transportation posted highest growth in 4+ years",
-        "Record pipeline generation in Q1 despite multimillion-dollar deal slippage from April tariff uncertainty, with several deals closing in May as customers prioritized spending on tariff-impacted vehicles and equipment",
-        "Expanded OEM partnerships with Hyundai Translead, Stellantis (14M vehicles), and Rivian to enable cloud-to-cloud connections without hardware installation"
+        "Q1 ARR reached $1.54 billion growing 31% YoY; revenue of $367 million up 31% YoY with record 79% non-GAAP gross margin",
+        "Added 154 customers with $100K+ ARR (35% YoY growth) reaching 2,638 total; these customers now represent 58% of ARR mix up from 56% prior year",
+        "Net dollar retention rate maintained at ~115%; 95% of $100K+ ARR customers subscribe to 2+ products and 66% subscribe to 3+ products",
+        "International contributed 18% of net new ACV (tied for highest ever); Europe achieved highest quarterly net new ACV mix ever with sequential acceleration",
+        "Non-GAAP operating margin expanded to 14% vs 2% prior year Q1; adjusted free cash flow margin of 12% vs 7% prior year",
+        "Q1 generated record pipeline despite elongated sales cycles; tens of millions in deals pushed from Q1 to Q2 following April Liberation Day tariff announcements"
       ],
       "risks": [
-        "Macro uncertainty and tariffs causing elongated sales cycles as customers prioritize spending on tariff-impacted goods like vehicles and equipment, creating timing risk on deal closures",
-        "Sales cycle lengthening on large enterprise transactions particularly following Liberation Day in April, with multimillion-dollar impact in Q1",
-        "Strategic accounts with 100K+ vehicles involve multiyear sales cycles and significant change management complexity across large operating divisions"
+        "Elongated sales cycles due to macro uncertainty and tariff impacts on customer purchases of vehicles and equipment, with customers prioritizing tariff-impacted goods over software spending",
+        "Timing risk on deal closures persists despite some delayed Q1 deals closing in May, creating revenue visibility challenges in uncertain macro environment",
+        "Strategic enterprise deals with 100K+ vehicle fleets remain multiyear sales cycles requiring significant change management across complex operations"
       ]
     },
     "HIVE": {
@@ -4585,48 +4585,47 @@
       "year": 2025,
       "beat_miss": "unknown",
       "vs_est": null,
-      "guidance": "raised",
-      "guidance_note": "Scaling Bitcoin mining hash rate from 11.5 exahash to 25 exahash by November 2025; targeting HPC AI revenue growth from $20 million ARR to $100 million ARR in 2026.",
+      "guidance": "maintained",
+      "guidance_note": "Targeting 25 exahash by November 2025 and scaling HPC revenue from $20 million ARR to $100 million ARR by 2026, fully funded for all growth initiatives.",
       "tone": "bullish",
       "bullets": [
-        "Fiscal year 2025 revenue of $115.3 million ($105 million Bitcoin mining, $10 million HPC AI), with adjusted EBITDA of $56.2 million and 22% ROIC, highest in the sector",
-        "Currently mining 5.5 Bitcoin daily at 11.5 exahash with $200 million annualized revenue run rate; fully funded to scale to 25 exahash by fall 2025, which would generate over $400 million annualized revenue at $100k Bitcoin",
-        "HPC AI business hit $20 million ARR in May 2025, up from $10 million for full year; acquired 7.2 megawatt Toronto data center to 3.5x HPC footprint and target $100 million ARR by 2026",
-        "Operating 5,000+ NVIDIA GPUs (4,200 A-Series, 344 H100s, 504 H200s); Toronto facility conversion to liquid cooling expected to add ~$80 million ARR",
-        "Balance sheet includes $23.4 million cash and $181.1 million in digital currencies (610 Bitcoin at $65+ million value); current ratio of 3.7 with strong working capital",
-        "Gross operating margin of $25.1 million (22%) for fiscal 2025, down from $37.5 million (33%) prior year due to April 2024 Bitcoin halving impact; mined 1,414 Bitcoin equivalent during the year"
+        "Full-year revenue $115.3 million with adjusted EBITDA of $56.2 million, yielding 22% ROIC over the past 12 months, leading the sector",
+        "Bitcoin mining scaled from 4.7 exahash to 11.5 exahash by June 2025, mining 5.5 Bitcoin daily at $600k/day revenue, targeting 25 exahash by fall 2025 to reach 3% of global network",
+        "HPC AI business hit $20 million ARR in May 2025, up from $10 million prior year, with recent 7.2 MW Toronto data center acquisition expected to add ~$80 million ARR",
+        "At 25 exahash and $100k Bitcoin, company projects $400+ million annualized revenue with $250+ million gross mining margin; cost to produce Bitcoin approximately $42k",
+        "Holds 610 Bitcoin ($60+ million) in treasury with commitment to buy back 1,300 Bitcoin at $87k to restore HODL position above 2,000 Bitcoin by year-end",
+        "Transitioned from IFRS to US GAAP accounting and relocated headquarters to San Antonio, Texas to improve comparability with US peers and support potential US domicile"
       ],
       "risks": [
-        "Bitcoin halving in April 2024 reduced mining rewards by 50%, pressuring margins from 33% to 22% year-over-year despite higher Bitcoin prices",
-        "Rising Bitcoin network difficulty and hash rate competition compressing mining economics across the industry",
-        "9-12 month retrofit timeline required for Toronto data center liquid cooling conversion delays HPC revenue scaling"
+        "Post-halving economics created margin compression with gross operating margin declining to $25.1 million (22%) from $37.5 million (33%) year-over-year due to reduced mining rewards and rising network difficulty",
+        "High depreciation burden of $64 million annually and exposure to foreign exchange volatility ($5 million noncash charge) given operations across 9 time zones and 5 languages",
+        "Execution risk on aggressive growth targets requiring successful ramp of Paraguay facilities and 9-12 month retrofit timeline for Toronto HPC data center liquid cooling infrastructure"
       ]
     }
   },
   "commentary": {
-    "overnight": "Bitcoin dropped below $61,000 overnight, down 3.8% to around $61,300, marking its weakest level since October 2024 as ETF investors headed for exits after 13 straight outflow sessions totaling $4.4 billion. U.S. stock futures remained under pressure following Friday's brutal selloff, with the Nasdaq plunging 1,000 points\u2014its largest drop in eight months\u2014after stronger-than-expected May payrolls (172,000 vs. 85,000 expected) pushed the 10-year Treasury yield to 4.54%, reigniting rate-hike fears.",
-    "positions": "Your crypto-linked miners and quantum plays were obliterated Friday: BTBT -11.4%, GLXY -11.5%, HIVE -13.7%, IREN -12.1%, MARA -11.2%, RIOT -10.2% as BTC fell through $60K. Quantum names crashed on profit-taking ahead of Quantinuum's weak IPO debut: IONQ -13.5%, QBTS -13.7%, QUBT -11.0%, RGTI -14.4%, all trading at extreme P/S multiples (109x, 791x, 606x, 592x respectively) with insiders selling $931M net over five years. SMCI -11.2% after Goldman reiterated Sell citing customer concentration risk (one client = 39% YTD revenue) amid broader AI stock selloff. HIMS -6.5% and IONQ now -13.5% below their stop-loss levels. HIVE +42.3% remains your top gainer despite the carnage.",
-    "earnings": "IOT beat Q1 by 30.6% on June 4 with $367M revenue (+31% YoY) and raised ARR to $1.54B, but lowered guidance in mixed-tone call. HIVE missed Q4 EPS badly (-$0.28 vs. -$0.21 est) on June 2 but raised guidance with HPC AI business hitting $20M ARR (up from $10M full-year) and targeting $100M ARR by 2026. ORCL reports June 10 with EPS estimate of $1.96\u2014watch for AI infrastructure commentary as Oracle sits on a $553B backlog.",
-    "macro": "CPI MoM (est 0.5%), Core CPI MoM (est 0.3%), and YoY CPI (est 4.2%) hit Wednesday June 10, same day as ORCL earnings\u2014hot inflation print could cement no-cut expectations and pressure tech further. FOMC on June 17 (est 3.75%) with new Fed Chair Warsh's first presser likely to drive volatility as market prices zero cuts vs. Fed's one-cut projection.",
+    "overnight": "Bitcoin fell to $60,059, down 4.09%, continuing a brutal week that triggered $1.1B in liquidations as BTC broke below $64,000. The selloff was driven by record ETF outflows exceeding $3.2B, MicroStrategy's first publicized BTC sale, and sticky inflation keeping rate cuts off the table. Friday's stronger-than-expected 172,000 payroll report sent 10-year Treasury yields to 4.56% (1-year high), hammering risk assets as crude climbed to $90.54.",
+    "positions": "Your crypto miners and quantum plays were crushed in Friday's tech rout\u2014BTBT down 11.35%, GLXY down 11.51%, HIVE down 13.73%, RGTI down 14.40%, TONX down 16.84%\u2014all tracking Bitcoin's collapse below key support. SMCI plunged 11.22% after Goldman reiterated Sell citing customer concentration (one client = 39% of YTD revenue) plus broader AI hardware selloff on rising yields and Broadcom earnings reset. HIMS and IONQ are dangerously close to stop-loss at -8.4% and -13.5% respectively. Bright spot: MARA, RIOT, HIVE remain profitable despite carnage, and IOT beat earnings by 30.6% on June 4.",
+    "earnings": "IOT beat Q1 estimates by 30.6% with ARR up 31% YoY to $1.54B, but lowered guidance and tone was cautious\u2014stock still down 1.16% in sympathy with tech. HIVE missed Q4 by 33% but maintained guidance with bullish tone on 25 exahash target and $80M ARR from HPC AI. ORCL reports June 10 with consensus $1.96 EPS\u2014this will be critical given Oracle's $553B backlog narrative and tech sector weakness.",
+    "macro": "CPI MoM (est 0.5%) and Core CPI (est 0.3%) release June 10, followed by PPI June 11 and FOMC meeting June 17. If inflation runs hot again, market expects zero rate cuts in 2026 vs. Fed's one-cut projection. Friday's hot payrolls data already shifted sentiment bearish\u2014any upside surprise on CPI will extend the selloff in long-duration assets like crypto and unprofitable tech.",
     "watch_at_open": [
-      "BTC/USD at $60,000\u2014breakdown below could trigger cascade in BTBT, GLXY, HIVE, IREN, MARA, RIOT",
-      "IONQ, ORCL approaching stop-loss levels\u2014IONQ at $56.78 is 13.5% from S/L, ORCL at $213.41 is 13.8% from S/L",
-      "10-year Treasury yield\u2014holding 4.54% adds continued pressure on high-multiple tech and quantum names",
-      "SMCI at $41.64\u2014already 23.2% from S/L after -11.2% Friday drop on customer concentration concerns",
-      "Quantinuum (QNT) IPO pricing today\u2014weak debut could trigger further quantum sector liquidation"
+      "BTC/USD $60,000 support\u2014break below targets $58K and triggers more miner liquidation",
+      "HIMS at $26.19\u2014only 8.4% above stop-loss, any gap down triggers exit",
+      "IONQ at $56.78\u201413.5% below stop-loss, extremely vulnerable to quantum sector weakness",
+      "SMCI at $41.64\u2014watch for continued Goldman Sachs downgrade fallout and customer concentration concerns",
+      "ORCL pre-earnings behavior ahead of June 10\u2014tech sector proxy for AI infrastructure demand"
     ],
     "risks": [
-      "June 10 CPI print above 0.5% MoM would validate rate-hike fears, hammering unprofitable high-flyers (your quantum basket, PLUG, TONX, ZONE) and crypto proxies already near stop-losses",
-      "BTC breakdown below $60K support could trigger 10-15% drawdown in your eight Bitcoin mining/crypto positions (46% of portfolio exposure by position count), compounding Friday's losses"
+      "CPI print June 10 comes in above 0.5% MoM\u2014would cement no-cut scenario and extend tech/crypto carnage with Bitcoin testing $55K-$58K range",
+      "Bitcoin ETF outflows continue into next week after $3.2B exodus\u2014creates forced selling pressure on all crypto-linked equities (BTBT, RIOT, MARA, GLXY, HIVE, IREN)"
     ],
     "sources": [
-      "CoinDesk: Bitcoin loses $60,000, falls to weakest price since October 2024",
-      "Schwab: May jobs growth 172,000 roughly doubling expectations, 10-year yield jumped to 4.54%",
-      "GuruFocus: Super Micro fell 10% Friday after strong payroll data lifted Treasury yields",
-      "TipRanks: Quantum stocks IONQ, RGTI, QBTS down over 10% on profit-taking and Quantinuum IPO pressure",
-      "Motley Fool: Quantum insiders sold $931M net over five years, P/S ratios 109x-836x unsustainable"
+      "Super Micro fell 10% on Friday after payroll data lifted yields - GuruFocus June 5",
+      "Bitcoin dropped below $64,000 triggering $1.1B liquidations - CryptoBriefing June 4",
+      "Leopold Aschenbrenner's fund bought 5.6% stake in Nebius (CRWV parent) - Motley Fool June 5",
+      "May jobs growth 172,000 doubled consensus, yields jumped to 4.54% - Schwab June 5"
     ],
-    "generated_at": "2026-06-06T04:53:01Z"
+    "generated_at": "2026-06-06T05:00:54Z"
   },
   "grades": {
     "changes": [
@@ -4784,7 +4783,7 @@
         "daysAgo": 61
       },
       {
-        "sym": "DIS",
+        "sym": "UNH",
         "date": "2026-04-01",
         "firm": "Raymond James",
         "action": "upgrade",
@@ -4793,7 +4792,7 @@
         "daysAgo": 66
       },
       {
-        "sym": "UNH",
+        "sym": "DIS",
         "date": "2026-04-01",
         "firm": "Raymond James",
         "action": "upgrade",
@@ -4885,5 +4884,1000 @@
     ],
     "consensus": {}
   },
-  "congress": []
+  "congress": [
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "Josh Gottheimer",
+      "office": "NJ05",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$500,001 - $1,000,000",
+      "amount_mid": 750000,
+      "transaction_date": "2026-05-19",
+      "disclosure_date": "2026-06-04",
+      "days_ago": 2,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "Josh Gottheimer",
+      "office": "NJ05",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$500,001 - $1,000,000",
+      "amount_mid": 750000,
+      "transaction_date": "2026-05-19",
+      "disclosure_date": "2026-06-04",
+      "days_ago": 2,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034693.pdf"
+    },
+    {
+      "sym": "ORCL",
+      "chamber": "Senate",
+      "name": "Sheldon Whitehouse",
+      "office": "RI",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "amount_mid": 32500,
+      "transaction_date": "2026-05-07",
+      "disclosure_date": "2026-06-02",
+      "days_ago": 4,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/4aa0094d-d9da-4a05-aa13-6d9f5d376105/"
+    },
+    {
+      "sym": "NOW",
+      "chamber": "House",
+      "name": "Josh Gottheimer",
+      "office": "NJ05",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-24",
+      "disclosure_date": "2026-05-20",
+      "days_ago": 17,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034585.pdf"
+    },
+    {
+      "sym": "AMT",
+      "chamber": "House",
+      "name": "Dwight Evans",
+      "office": "PA03",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-05-11",
+      "disclosure_date": "2026-05-15",
+      "days_ago": 22,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034556.pdf"
+    },
+    {
+      "sym": "LLY",
+      "chamber": "House",
+      "name": "Byron Donalds",
+      "office": "FL19",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-02",
+      "disclosure_date": "2026-05-14",
+      "days_ago": 23,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034478.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "John McGuire",
+      "office": "VA05",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-15",
+      "disclosure_date": "2026-05-14",
+      "days_ago": 23,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034521.pdf"
+    },
+    {
+      "sym": "ADP",
+      "chamber": "House",
+      "name": "Ro Khanna",
+      "office": "CA17",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "amount_mid": 32500,
+      "transaction_date": "2026-04-13",
+      "disclosure_date": "2026-05-13",
+      "days_ago": 24,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115822.pdf"
+    },
+    {
+      "sym": "AMT",
+      "chamber": "House",
+      "name": "Rich McCormick",
+      "office": "Rich McCormick",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-17",
+      "disclosure_date": "2026-05-13",
+      "days_ago": 24,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034542.pdf"
+    },
+    {
+      "sym": "LLY",
+      "chamber": "House",
+      "name": "Gilbert Cisneros",
+      "office": "CA31",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-14",
+      "disclosure_date": "2026-05-11",
+      "days_ago": 26,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
+    },
+    {
+      "sym": "ADP",
+      "chamber": "House",
+      "name": "Gilbert Cisneros",
+      "office": "CA31",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-14",
+      "disclosure_date": "2026-05-11",
+      "days_ago": 26,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034500.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "Maria Elvira Salazar",
+      "office": "FL27",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "amount_mid": 32500,
+      "transaction_date": "2026-04-17",
+      "disclosure_date": "2026-05-11",
+      "days_ago": 26,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
+    },
+    {
+      "sym": "UNH",
+      "chamber": "House",
+      "name": "Maria Elvira Salazar",
+      "office": "FL27",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-22",
+      "disclosure_date": "2026-05-11",
+      "days_ago": 26,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034479.pdf"
+    },
+    {
+      "sym": "RDDT",
+      "chamber": "House",
+      "name": "Michael McCaul",
+      "office": "TX10",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-17",
+      "disclosure_date": "2026-05-11",
+      "days_ago": 26,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115820.pdf"
+    },
+    {
+      "sym": "MORN",
+      "chamber": "House",
+      "name": "April Delaney",
+      "office": "MD06",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-30",
+      "disclosure_date": "2026-05-07",
+      "days_ago": 30,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034487.pdf"
+    },
+    {
+      "sym": "MORN",
+      "chamber": "House",
+      "name": "April Delaney",
+      "office": "MD06",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-17",
+      "disclosure_date": "2026-05-07",
+      "days_ago": 30,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034487.pdf"
+    },
+    {
+      "sym": "MORN",
+      "chamber": "House",
+      "name": "April Delaney",
+      "office": "MD06",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-16",
+      "disclosure_date": "2026-05-07",
+      "days_ago": 30,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034487.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "Mark Warner",
+      "office": "VA",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-13",
+      "disclosure_date": "2026-05-01",
+      "days_ago": 36,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/e8a9cd50-e2c7-4cc3-a4f8-310aa734a85c/"
+    },
+    {
+      "sym": "ORCL",
+      "chamber": "House",
+      "name": "Jared Moskowitz",
+      "office": "FL23",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-23",
+      "disclosure_date": "2026-05-01",
+      "days_ago": 36,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034274.pdf"
+    },
+    {
+      "sym": "LLY",
+      "chamber": "House",
+      "name": "Lizzie Fletcher",
+      "office": "Lizzie Fletcher",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-04-08",
+      "disclosure_date": "2026-05-01",
+      "days_ago": 36,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034413.pdf"
+    },
+    {
+      "sym": "IONQ",
+      "chamber": "House",
+      "name": "W. Gregory Steube",
+      "office": "FL17",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-18",
+      "disclosure_date": "2026-04-15",
+      "days_ago": 52,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034345.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-05",
+      "disclosure_date": "2026-04-14",
+      "days_ago": 53,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/88c765c5-6550-47af-a81d-2e052c1c1b7e/"
+    },
+    {
+      "sym": "NOW",
+      "chamber": "House",
+      "name": "Michael McCaul",
+      "office": "TX10",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-04",
+      "disclosure_date": "2026-04-10",
+      "days_ago": 57,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115728.pdf"
+    },
+    {
+      "sym": "UNH",
+      "chamber": "House",
+      "name": "Ro Khanna",
+      "office": "CA17",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-30",
+      "disclosure_date": "2026-04-09",
+      "days_ago": 58,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115726.pdf"
+    },
+    {
+      "sym": "PYPL",
+      "chamber": "House",
+      "name": "Byron Donalds",
+      "office": "FL19",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-13",
+      "disclosure_date": "2026-04-09",
+      "days_ago": 58,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034297.pdf"
+    },
+    {
+      "sym": "NFLX",
+      "chamber": "House",
+      "name": "Byron Donalds",
+      "office": "FL19",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-20",
+      "disclosure_date": "2026-04-09",
+      "days_ago": 58,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034297.pdf"
+    },
+    {
+      "sym": "NOW",
+      "chamber": "House",
+      "name": "Josh Gottheimer",
+      "office": "NJ05",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-06",
+      "disclosure_date": "2026-04-09",
+      "days_ago": 58,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034305.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "Josh Gottheimer",
+      "office": "NJ05",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$500,001 - $1,000,000",
+      "amount_mid": 750000,
+      "transaction_date": "2026-03-25",
+      "disclosure_date": "2026-04-09",
+      "days_ago": 58,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034305.pdf"
+    },
+    {
+      "sym": "LLY",
+      "chamber": "House",
+      "name": "Gilbert Cisneros",
+      "office": "CA31",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-13",
+      "disclosure_date": "2026-04-08",
+      "days_ago": 59,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+    },
+    {
+      "sym": "FDS",
+      "chamber": "House",
+      "name": "Gilbert Cisneros",
+      "office": "CA31",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-13",
+      "disclosure_date": "2026-04-08",
+      "days_ago": 59,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034285.pdf"
+    },
+    {
+      "sym": "ADP",
+      "chamber": "House",
+      "name": "Richard Dean Dr McCormick",
+      "office": "GA06",
+      "owner": "Self",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-19",
+      "disclosure_date": "2026-04-07",
+      "days_ago": 60,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033648.pdf"
+    },
+    {
+      "sym": "ADP",
+      "chamber": "House",
+      "name": "Richard Dean Dr McCormick",
+      "office": "GA06",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-19",
+      "disclosure_date": "2026-04-07",
+      "days_ago": 60,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20033648.pdf"
+    },
+    {
+      "sym": "KVUE",
+      "chamber": "House",
+      "name": "Kevin Hern",
+      "office": "OK01",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$15,001 - $50,000",
+      "amount_mid": 32500,
+      "transaction_date": "2026-03-17",
+      "disclosure_date": "2026-04-06",
+      "days_ago": 61,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034262.pdf"
+    },
+    {
+      "sym": "FDS",
+      "chamber": "Senate",
+      "name": "Shelley Moore Capito",
+      "office": "WV",
+      "owner": "Spouse",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-26",
+      "disclosure_date": "2026-04-05",
+      "days_ago": 62,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/ab712d8d-1afd-4f09-b29e-f1b65bba50b8/"
+    },
+    {
+      "sym": "FDS",
+      "chamber": "Senate",
+      "name": "Shelley Moore Capito",
+      "office": "WV",
+      "owner": "Spouse",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-31",
+      "disclosure_date": "2026-04-05",
+      "days_ago": 62,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/ab712d8d-1afd-4f09-b29e-f1b65bba50b8/"
+    },
+    {
+      "sym": "FDS",
+      "chamber": "Senate",
+      "name": "Shelley Moore Capito",
+      "office": "WV",
+      "owner": "Spouse",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-25",
+      "disclosure_date": "2026-04-05",
+      "days_ago": 62,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/ab712d8d-1afd-4f09-b29e-f1b65bba50b8/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "John Fetterman",
+      "office": "PA",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-27",
+      "disclosure_date": "2026-04-03",
+      "days_ago": 64,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "John Fetterman",
+      "office": "PA",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-30",
+      "disclosure_date": "2026-04-03",
+      "days_ago": 64,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/"
+    },
+    {
+      "sym": "PYPL",
+      "chamber": "House",
+      "name": "Mark Alford",
+      "office": "MO04",
+      "owner": "Self",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-16",
+      "disclosure_date": "2026-03-31",
+      "days_ago": 67,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
+    },
+    {
+      "sym": "PYPL",
+      "chamber": "House",
+      "name": "Mark Alford",
+      "office": "MO04",
+      "owner": "Self",
+      "type": "Sale Partial",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-16",
+      "disclosure_date": "2026-03-31",
+      "days_ago": 67,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034201.pdf"
+    },
+    {
+      "sym": "BX",
+      "chamber": "Senate",
+      "name": "Angus King",
+      "office": "ME",
+      "owner": "Spouse",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-13",
+      "disclosure_date": "2026-03-24",
+      "days_ago": 74,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/"
+    },
+    {
+      "sym": "PYPL",
+      "chamber": "House",
+      "name": "Charles J. \"Chuck\" Fleischmann",
+      "office": "TN03",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-20",
+      "disclosure_date": "2026-03-23",
+      "days_ago": 75,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115704.pdf"
+    },
+    {
+      "sym": "NOW",
+      "chamber": "House",
+      "name": "Charles J. \"Chuck\" Fleischmann",
+      "office": "TN03",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-20",
+      "disclosure_date": "2026-03-23",
+      "days_ago": 75,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115704.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "Cleo Fields",
+      "office": "LA06",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-03-12",
+      "disclosure_date": "2026-03-18",
+      "days_ago": 80,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034179.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "Josh Gottheimer",
+      "office": "NJ05",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-02",
+      "disclosure_date": "2026-03-17",
+      "days_ago": 81,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034130.pdf"
+    },
+    {
+      "sym": "UNH",
+      "chamber": "House",
+      "name": "Josh Gottheimer",
+      "office": "NJ05",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-05",
+      "disclosure_date": "2026-03-17",
+      "days_ago": 81,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034130.pdf"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "House",
+      "name": "Julia Letlow",
+      "office": "Julia Letlow",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-02",
+      "disclosure_date": "2026-03-13",
+      "days_ago": 85,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034106.pdf"
+    },
+    {
+      "sym": "VST",
+      "chamber": "House",
+      "name": "Julia Letlow",
+      "office": "Julia Letlow",
+      "owner": "Self",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-17",
+      "disclosure_date": "2026-03-13",
+      "days_ago": 85,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034106.pdf"
+    },
+    {
+      "sym": "NOW",
+      "chamber": "House",
+      "name": "Tony Wied",
+      "office": "WI08",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$15,001 - $50,000",
+      "amount_mid": 32500,
+      "transaction_date": "2026-02-04",
+      "disclosure_date": "2026-03-12",
+      "days_ago": 86,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221360.pdf"
+    },
+    {
+      "sym": "MORN",
+      "chamber": "House",
+      "name": "April Delaney",
+      "office": "MD06",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-19",
+      "disclosure_date": "2026-03-11",
+      "days_ago": 87,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034159.pdf"
+    },
+    {
+      "sym": "MORN",
+      "chamber": "House",
+      "name": "April Delaney",
+      "office": "MD06",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-06",
+      "disclosure_date": "2026-03-11",
+      "days_ago": 87,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034159.pdf"
+    },
+    {
+      "sym": "MORN",
+      "chamber": "House",
+      "name": "April Delaney",
+      "office": "MD06",
+      "owner": "Self",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-25",
+      "disclosure_date": "2026-03-11",
+      "days_ago": 87,
+      "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034159.pdf"
+    },
+    {
+      "sym": "UNH",
+      "chamber": "Senate",
+      "name": "Markwayne Mullin",
+      "office": "OK",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$50,001 - $100,000",
+      "amount_mid": 75000,
+      "transaction_date": "2026-02-25",
+      "disclosure_date": "2026-03-10",
+      "days_ago": 88,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/f586922d-6083-44e5-8a32-769290389416/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-02-13",
+      "disclosure_date": "2026-03-06",
+      "days_ago": 92,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/141ea86c-9411-4d3f-ae9b-ce6e5e8065d1/"
+    },
+    {
+      "sym": "PYPL",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-01-29",
+      "disclosure_date": "2026-02-15",
+      "days_ago": 111,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
+    },
+    {
+      "sym": "FISV",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-01-29",
+      "disclosure_date": "2026-02-15",
+      "days_ago": 111,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
+    },
+    {
+      "sym": "DXCM",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-01-26",
+      "disclosure_date": "2026-02-15",
+      "days_ago": 111,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
+    },
+    {
+      "sym": "DIS",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-01-08",
+      "disclosure_date": "2026-02-15",
+      "days_ago": 111,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/"
+    },
+    {
+      "sym": "FISV",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2026-01-29",
+      "disclosure_date": "2026-02-14",
+      "days_ago": 112,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/"
+    },
+    {
+      "sym": "LLY",
+      "chamber": "Senate",
+      "name": "Angus King",
+      "office": "ME",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-12-29",
+      "disclosure_date": "2026-01-26",
+      "days_ago": 131,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/d7cae837-f73c-4eb1-b9fb-e510f53d65de/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "Katie Britt",
+      "office": "AL",
+      "owner": "Spouse",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-04-14",
+      "disclosure_date": "2026-01-26",
+      "days_ago": 131,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/28e79480-3dcb-4793-86ed-48e7fd214587/"
+    },
+    {
+      "sym": "UNH",
+      "chamber": "Senate",
+      "name": "Katie Britt",
+      "office": "AL",
+      "owner": "Spouse",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-04-30",
+      "disclosure_date": "2026-01-26",
+      "days_ago": 131,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/28e79480-3dcb-4793-86ed-48e7fd214587/"
+    },
+    {
+      "sym": "UNH",
+      "chamber": "Senate",
+      "name": "Katie Britt",
+      "office": "AL",
+      "owner": "Spouse",
+      "type": "Sale (Full)",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-04-30",
+      "disclosure_date": "2026-01-25",
+      "days_ago": 132,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/28e79480-3dcb-4793-86ed-48e7fd214587/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "Markwayne Mullin",
+      "office": "OK",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$100,001 - $250,000",
+      "amount_mid": 175000,
+      "transaction_date": "2025-12-29",
+      "disclosure_date": "2026-01-16",
+      "days_ago": 141,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/b195126e-7bb2-4d54-baf5-e6fc8e7a0165/"
+    },
+    {
+      "sym": "SMCI",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-12-31",
+      "disclosure_date": "2026-01-13",
+      "days_ago": 144,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/d3daa40b-123d-4451-9974-02bf5a96d8da/"
+    },
+    {
+      "sym": "SMCI",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-12-11",
+      "disclosure_date": "2026-01-13",
+      "days_ago": 144,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/0677bd3f-167e-4cae-8f1d-05eb4340fcdc/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-12-17",
+      "disclosure_date": "2026-01-13",
+      "days_ago": 144,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/0677bd3f-167e-4cae-8f1d-05eb4340fcdc/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "Shelley Moore Capito",
+      "office": "WV",
+      "owner": "Spouse",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-12-16",
+      "disclosure_date": "2026-01-06",
+      "days_ago": 151,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/439c1ac8-2955-486b-9f9c-4f1c6524671a/"
+    },
+    {
+      "sym": "MSFT",
+      "chamber": "Senate",
+      "name": "Shelley Moore Capito",
+      "office": "WV",
+      "owner": "Spouse",
+      "type": "Sale (Partial)",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-12-16",
+      "disclosure_date": "2026-01-05",
+      "days_ago": 152,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/439c1ac8-2955-486b-9f9c-4f1c6524671a/"
+    },
+    {
+      "sym": "PYPL",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Purchase",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-11-21",
+      "disclosure_date": "2025-12-08",
+      "days_ago": 180,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/2c4705cc-0f3e-4105-9093-f82fcec8bacd/"
+    },
+    {
+      "sym": "LLY",
+      "chamber": "Senate",
+      "name": "John Boozman",
+      "office": "AR",
+      "owner": "Joint",
+      "type": "Sale",
+      "amount": "$1,001 - $15,000",
+      "amount_mid": 8000,
+      "transaction_date": "2025-11-21",
+      "disclosure_date": "2025-12-08",
+      "days_ago": 180,
+      "link": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/"
+    }
+  ]
 }
